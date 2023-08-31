@@ -4,12 +4,10 @@ app = express()
 const fs = require('fs');
 const bodyParser = require('body-parser');
 const CNG = require("@jirimracek/conjugate-esp");
-const editJsonFile = require("edit-json-file");
 const cng = new CNG.Conjugator();
 cng.setOrthography('1999');
 cng.useHighlight(use = false)
 
-let file = editJsonFile(`${__dirname}/public/tenses.json`, { autosave: true });
 
 app.use(bodyParser.json());
 app.set('view engine', 'ejs')
