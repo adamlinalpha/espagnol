@@ -103,7 +103,7 @@ a:hover, .bt:hover{
 @media screen and (max-width: 800px) {
     .blocCentral{
         width: 70vw;
-        height: 80vh;
+        height: 65vh;
     }
     .temps{
         width: 80%;
