@@ -132,6 +132,7 @@ form.addEventListener('submit', function (evt) {
         fetch('https://entrainement-espagnol.onrender.com/randomVerb')
         .then(response => response.json()).then(function (data) {
           infinitif.innerText = data.verb;
+          console.log(data);
           traduction.innerText = data.translation;
           let object = JSON.parse(data.conjugated)
           function conjugue() {
