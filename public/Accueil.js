@@ -64,7 +64,7 @@ let hello= function(){
       infinitif.innerText = data.verb;
       traduction.innerText = data.translation;
       let object = JSON.parse(data.conjugated)
-      console.log(object)
+      console.log(object.conjugation)
       function conjugue() {
         let codeV = verbesR[temps.innerText];
         let autrePropriete = object[0];
