@@ -63,6 +63,7 @@ let hello= function(){
     .then(response => response.json()).then(function (data) {
       infinitif.innerText = data.verb;
       traduction.innerText = data.translation;
+      console.log(data.translation);
       let object = JSON.parse(data.conjugated)
       function conjugue() {
         let codeV = verbesR[temps.innerText];
