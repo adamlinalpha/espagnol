@@ -7,7 +7,7 @@ const traduction = document.querySelector('.traduction')
 const scoreS = document.querySelector('.score')
 const scoreB = document.querySelector('.scoreBloc')
 const buttons = document.querySelectorAll('.bt');
-
+let pronomValue = ''
 let verbesR = {
   "Présent de l'indicatif": 'conjugation.Indicativo.Presente',
   "Passé simple": 'conjugation.Indicativo.PreteritoIndefinido',
@@ -34,67 +34,72 @@ let pronomsR = {
   "Ellas": 5,
   "Ustedes": 5,
 }
-const estar=['estoy','estás','está','estamos','estáis','están']
+const estar = ['estoy', 'estás', 'está', 'estamos', 'estáis', 'están']
 let correction = 'comer'
 let score = []
 
-let hello= function(){
-  fetch('https://entrainement-espagnol.onrender.com/randomTense')
-  .then(response => response.json()).then(function (data) {
-    temps.innerText = data.tense;
-  }).then(function () {
-    fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
-      .then(response => response.json()).then(function (data) {
-        if (temps.innerText == 'Imperatif') {
-          let randVf = Math.random();
-          if (randVf < 0.5) {
-            pronom.innerText = 'Tú'
-          } else if (randVf < 0.75) {
-            pronom.innerText = 'Vosotros'
-          } else {
-            pronom.innerText = 'Vosotras'
-          }
-        } else {
-          pronom.innerText = data.pronoun;
-        }
-      })
-  }).then(function(){
-    fetch('https://entrainement-espagnol.onrender.com/randomVerb')
+let hello = function () {
+  fetch('http://localhost:3000/randomTense')
     .then(response => response.json()).then(function (data) {
-      infinitif.innerText = data.verb;
-      traduction.innerText = data.translation;
-      let object = JSON.parse(data.conjugated)
-      console.log(object.conjugated)
-      function conjugue() {
-        let codeV = verbesR[temps.innerText];
-        let autrePropriete = object[0];
-        const codeVArray = codeV.split('.');
-        for (const prop of codeVArray) {
-          autrePropriete = autrePropriete[prop];
-        }
-        return autrePropriete
-      }
-      let arrayV=conjugue()
-      numberP=pronomsR[pronom.innerText]
-      correction=arrayV[numberP]
-      if(temps.innerText=='Présent progressif'){
-        correction=`${estar[numberP]} ${arrayV}`
-      }else{
-        correction=arrayV[numberP]
-      }
-      if(correction==undefined){
-        hello()
-        console.log('hi')
-      }
-      console.log(correction)
-  })
-})
+      temps.innerText = data.tense;
+    }).then(function () {
+      fetch('http://localhost:3000/randomPronoun')
+        .then(response => response.json()).then(function (data) {
+          if (temps.innerText == 'Imperatif') {
+            let randVf = Math.random();
+            if (randVf < 0.5) {
+              pronom.innerText = 'Tú'
+            } else if (randVf < 0.75) {
+              pronom.innerText = 'Vosotros'
+            } else {
+              pronom.innerText = 'Vosotras'
+            }
+          } else {
+            pronom.innerText = data.pronoun;
+          }
+        })
+    }).then(function () {
+      fetch('http://localhost:3000/randomVerb')
+        .then(response => response.json()).then(function (data) {
+          infinitif.innerText = data.verb;
+          traduction.innerText = data.translation;
+          let object = JSON.parse(data.conjugated)
+          function conjugue() {
+            let codeV = verbesR[temps.innerText];
+            let autrePropriete = object[0];
+            const codeVArray = codeV.split('.');
+            for (const prop of codeVArray) {
+              autrePropriete = autrePropriete[prop];
+            }
+            return autrePropriete
+          }
+          let arrayV = conjugue()
+          setTimeout(function () {
+            numberP = pronomsR[pronom.innerText]
+            correction = arrayV[numberP]
+            if (temps.innerText == 'Présent progressif') {
+              correction = `${estar[numberP]} ${arrayV}`
+            } else {
+              correction = arrayV[numberP]
+            }
+            if (correction == undefined) {
+              hello()
+              console.log('error')
+            }
+            console.log(correction)
+          }, 100)
+        })
+    })
 }
 hello()
 form.addEventListener('submit', function (evt) {
   evt.preventDefault()
+  function ReverseString(str) {
+    return str.split('').reverse().join('')
+  }
+  console.log()
   let reponse = evt.target.querySelector('#verbe').value
-  if (reponse.toUpperCase() == correction.toUpperCase()) {
+  if (reponse.toUpperCase() == correction.toUpperCase() || reponse.toUpperCase() == ReverseString(ReverseString(correction.toUpperCase()).replace('AR', 'ES'))) {
     evt.target.querySelector('#verbe').style.color = "green"
     evt.target.querySelector('#verbe').style.fontWeight = "bold"
     evt.target.querySelector('#verbe').disabled = true
@@ -110,11 +115,11 @@ form.addEventListener('submit', function (evt) {
   scoreS.innerText = `${(score.reduce((a, b) => a + b, 0) / score.length).toFixed(2)}%`;
   addEventListener('keypress', function handler(evt) {
 
-    fetch('https://entrainement-espagnol.onrender.com/randomTense')
+    fetch('http://localhost:3000/randomTense')
       .then(response => response.json()).then(function (data) {
         temps.innerText = data.tense;
       }).then(function () {
-        fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
+        fetch('http://localhost:3000/randomPronoun')
           .then(response => response.json()).then(function (data) {
             if (temps.innerText == 'Imperatif') {
               let randVf = Math.random();
@@ -129,53 +134,54 @@ form.addEventListener('submit', function (evt) {
               pronom.innerText = data.pronoun;
             }
           })
-      }).then(function(){
-        fetch('https://entrainement-espagnol.onrender.com/randomVerb')
-        .then(response => response.json()).then(function (data) {
-          infinitif.innerText = data.verb;
-          console.log(data);
-          traduction.innerText = data.translation;
-          let object = JSON.parse(data.conjugated)
-          function conjugue() {
-            let codeV = verbesR[temps.innerText];
-            let autrePropriete = object[0];
-            const codeVArray = codeV.split('.');
-            for (const prop of codeVArray) {
-              autrePropriete = autrePropriete[prop];
+      }).then(function () {
+        fetch('http://localhost:3000/randomVerb')
+          .then(response => response.json()).then(function (data) {
+            infinitif.innerText = data.verb;
+            traduction.innerText = data.translation;
+            let object = JSON.parse(data.conjugated);
+            function conjugue() {
+              let codeV = verbesR[temps.innerText];
+              let autrePropriete = object[0];
+              const codeVArray = codeV.split('.');
+              for (const prop of codeVArray) {
+                autrePropriete = autrePropriete[prop];
+              }
+              return autrePropriete
             }
-            return autrePropriete
-          }
-          let arrayV=conjugue()
-          numberP=pronomsR[pronom.innerText]
-          correction=arrayV[numberP]
-          if(temps.innerText=='Présent progressif'){
-            correction=`${estar[numberP]} ${arrayV}`
-          }else{
-            correction=arrayV[numberP]
-          }
-          if(correction==undefined){
-            hello()
-            console.log('hi')
-          }
-          console.log(correction)
+            let arrayV = conjugue()
+            setTimeout(function () {
+              numberP = pronomsR[pronom.innerText]
+              correction = arrayV[numberP]
+              if (temps.innerText == 'Présent progressif') {
+                correction = `${estar[numberP]} ${arrayV}`
+              } else {
+                correction = arrayV[numberP]
+              }
+              if (correction == undefined) {
+                hello()
+                console.log('error')
+              }
+              console.log(correction)
+            }, 100)
+          })
+
+
+        evt.target.querySelector('#verbe').value = ''
+        evt.target.querySelector('#verbe').disabled = false
+        evt.target.querySelector('#verbe').style.color = "black"
+        evt.target.querySelector('#verbe').style.fontWeight = "normal"
+        evt.target.querySelector('#verbe').focus()
+        this.removeEventListener("keypress", handler);
       })
 
-
-    evt.target.querySelector('#verbe').value = ''
-    evt.target.querySelector('#verbe').disabled = false
-    evt.target.querySelector('#verbe').style.color = "black"
-    evt.target.querySelector('#verbe').style.fontWeight = "normal"
-    evt.target.querySelector('#verbe').focus()
-    this.removeEventListener("keypress", handler);
   })
-
-})
 })
 
 buttons.forEach(button => {
   button.addEventListener('click', () => {
-      const letter = button.textContent;
-      input.value += letter;
-      input.focus()
+    const letter = button.textContent;
+    input.value += letter;
+    input.focus()
   });
 });

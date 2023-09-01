@@ -121,7 +121,10 @@ a:hover, .bt:hover{
     }
     .la{
         margin-top: 8px;
-        font-weight: bold
+        font-weight: bold;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
     .text{
         margin-top: 10px;
