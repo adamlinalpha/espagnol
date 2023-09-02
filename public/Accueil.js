@@ -41,11 +41,11 @@ let correction = 'comer'
 let score = []
 monBouton.style.visibility="hidden"
 let hello = function () {
-  fetch('http://localhost:3000/randomTense')
+  fetch('https://entrainement-espagnol.onrender.com/randomTense')
     .then(response => response.json()).then(function (data) {
       temps.innerText = data.tense;
     }).then(function () {
-      fetch('http://localhost:3000/randomPronoun')
+      fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
         .then(response => response.json()).then(function (data) {
           if (temps.innerText == 'Imperatif') {
             let randVf = Math.random();
@@ -61,7 +61,7 @@ let hello = function () {
           }
         })
     }).then(function () {
-      fetch('http://localhost:3000/randomVerb')
+      fetch('https://entrainement-espagnol.onrender.com/randomVerb')
         .then(response => response.json()).then(function (data) {
           infinitif.innerText = data.verb;
           traduction.innerText = data.translation;
@@ -119,11 +119,11 @@ form.addEventListener('submit', function (evt) {
   scoreS.innerText = `${(score.reduce((a, b) => a + b, 0) / score.length).toFixed(2)}%`;
   let handler=function(evt) {
 
-    fetch('http://localhost:3000/randomTense')
+    fetch('https://entrainement-espagnol.onrender.com/randomTense')
       .then(response => response.json()).then(function (data) {
         temps.innerText = data.tense;
       }).then(function () {
-        fetch('http://localhost:3000/randomPronoun')
+        fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
           .then(response => response.json()).then(function (data) {
             if (temps.innerText == 'Imperatif') {
               let randVf = Math.random();
@@ -139,7 +139,7 @@ form.addEventListener('submit', function (evt) {
             }
           })
       }).then(function () {
-        fetch('http://localhost:3000/randomVerb')
+        fetch('https://entrainement-espagnol.onrender.com/randomVerb')
           .then(response => response.json()).then(function (data) {
             infinitif.innerText = data.verb;
             traduction.innerText = data.translation;
