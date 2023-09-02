@@ -87,6 +87,19 @@ a{
     border: 2px solid rgb(145, 145, 145);
     transition: 0.3s;
 }
+.monBouton{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    height: 25px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 2px solid rgb(145, 145, 145);
+    transition: 0.3s;
+}
 .bt{
     width: 33px;
     height: 33px;
@@ -96,7 +109,7 @@ a{
     transition: 0.15s;
     font-size: 20px;
 }
-a:hover, .bt:hover{
+a:hover, .bt:hover, .monBouton:hover{
     transform: scale(1.1);
     background-color: rgb(224, 224, 224);
 }
