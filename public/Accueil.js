@@ -7,6 +7,8 @@ const traduction = document.querySelector('.traduction')
 const scoreS = document.querySelector('.score')
 const scoreB = document.querySelector('.scoreBloc')
 const buttons = document.querySelectorAll('.bt');
+const monBouton=document.querySelector('.monBouton')
+
 let pronomValue = ''
 let verbesR = {
   "Présent de l'indicatif": 'conjugation.Indicativo.Presente',
@@ -37,13 +39,13 @@ let pronomsR = {
 const estar = ['estoy', 'estás', 'está', 'estamos', 'estáis', 'están']
 let correction = 'comer'
 let score = []
-
+monBouton.style.visibility="hidden"
 let hello = function () {
-  fetch('https://entrainement-espagnol.onrender.com/randomTense')
+  fetch('http://localhost:3000/randomTense')
     .then(response => response.json()).then(function (data) {
       temps.innerText = data.tense;
     }).then(function () {
-      fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
+      fetch('http://localhost:3000/randomPronoun')
         .then(response => response.json()).then(function (data) {
           if (temps.innerText == 'Imperatif') {
             let randVf = Math.random();
@@ -59,7 +61,7 @@ let hello = function () {
           }
         })
     }).then(function () {
-      fetch('https://entrainement-espagnol.onrender.com/randomVerb')
+      fetch('http://localhost:3000/randomVerb')
         .then(response => response.json()).then(function (data) {
           infinitif.innerText = data.verb;
           traduction.innerText = data.translation;
@@ -92,8 +94,10 @@ let hello = function () {
     })
 }
 hello()
+
 form.addEventListener('submit', function (evt) {
   evt.preventDefault()
+  monBouton.style.visibility="visible"
   function ReverseString(str) {
     return str.split('').reverse().join('')
   }
@@ -113,13 +117,13 @@ form.addEventListener('submit', function (evt) {
   }
   scoreB.style.visibility = 'visible'
   scoreS.innerText = `${(score.reduce((a, b) => a + b, 0) / score.length).toFixed(2)}%`;
-  addEventListener('keypress', function handler(evt) {
+  let handler=function(evt) {
 
-    fetch('https://entrainement-espagnol.onrender.com/randomTense')
+    fetch('http://localhost:3000/randomTense')
       .then(response => response.json()).then(function (data) {
         temps.innerText = data.tense;
       }).then(function () {
-        fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
+        fetch('http://localhost:3000/randomPronoun')
           .then(response => response.json()).then(function (data) {
             if (temps.innerText == 'Imperatif') {
               let randVf = Math.random();
@@ -135,7 +139,7 @@ form.addEventListener('submit', function (evt) {
             }
           })
       }).then(function () {
-        fetch('https://entrainement-espagnol.onrender.com/randomVerb')
+        fetch('http://localhost:3000/randomVerb')
           .then(response => response.json()).then(function (data) {
             infinitif.innerText = data.verb;
             traduction.innerText = data.translation;
@@ -167,15 +171,20 @@ form.addEventListener('submit', function (evt) {
           })
 
 
-        evt.target.querySelector('#verbe').value = ''
-        evt.target.querySelector('#verbe').disabled = false
-        evt.target.querySelector('#verbe').style.color = "black"
-        evt.target.querySelector('#verbe').style.fontWeight = "normal"
-        evt.target.querySelector('#verbe').focus()
-        this.removeEventListener("keypress", handler);
+        document.querySelector('#verbe').value = ''
+        document.querySelector('#verbe').disabled = false
+        document.querySelector('#verbe').style.color = "black"
+        document.querySelector('#verbe').style.fontWeight = "normal"
+        document.querySelector('#verbe').focus()
+        removeEventListener("keypress", handler);
+        monBouton.removeEventListener('click', handler)
+        monBouton.style.visibility="hidden"
       })
 
-  })
+  }
+  addEventListener('keypress', handler)
+  monBouton.addEventListener('click', handler)
+
 })
 
 buttons.forEach(button => {
