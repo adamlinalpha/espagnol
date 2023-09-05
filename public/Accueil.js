@@ -89,7 +89,7 @@ let hello = function () {
               console.log('error')
             }
             console.log(correction)
-          }, 100)
+          }, 200)
         })
     })
 }
@@ -167,7 +167,7 @@ form.addEventListener('submit', function (evt) {
                 console.log('error')
               }
               console.log(correction)
-            }, 100)
+            }, 200)
           })
 
 
