@@ -27,7 +27,7 @@ verbs.forEach(
     const firstLetterCap = firstLetter.toUpperCase()
     const remainingLetters = object.infinitive.slice(1)
     let infinitive = `(${firstLetterCap + remainingLetters})`
-    let perc = object.perc
+    let perc = Math.pow(object.perc, 1 / 3)
     const firstLetter2 = object.translation.charAt(0)
     const firstLetterCap2 = firstLetter2.toUpperCase()
     const remainingLetters2 = object.translation.slice(1)
