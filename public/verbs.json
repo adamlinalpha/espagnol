@@ -1,55 +1,55 @@
 [
   {
     "infinitive": "ser",
-    "count": 2700,
+    "count": 14000,
     "perc": 0.04462441121,
     "translation": "être"
   },
   {
     "infinitive": "estar",
-    "count": 2700,
+    "count": 14000,
     "perc": 0.04462441121,
     "translation": "être"
   },
   {
     "infinitive": "decir",
-    "count": 2734,
+    "count": 9734,
     "perc": 0.04518634824,
     "translation": "dire"
   },
   {
     "infinitive": "tener",
-    "count": 1774,
+    "count": 12074,
     "perc": 0.02931989092,
     "translation": "avoir"
   },
   {
     "infinitive": "hacer",
-    "count": 1757,
+    "count": 11057,
     "perc": 0.0290389224,
     "translation": "faire"
   },
   {
     "infinitive": "ir",
-    "count": 1721,
+    "count": 10721,
     "perc": 0.02844393025,
     "translation": "aller"
   },
   {
     "infinitive": "poder",
-    "count": 1614,
+    "count": 8614,
     "perc": 0.02667548137,
     "translation": "pouvoir"
   },
   {
     "infinitive": "ver",
-    "count": 1336,
+    "count": 7336,
     "perc": 0.02208081977,
     "translation": "voir"
   },
   {
     "infinitive": "dar",
-    "count": 1210,
+    "count": 3210,
     "perc": 0.01999834724,
     "translation": "donner"
   },
@@ -79,7 +79,7 @@
   },
   {
     "infinitive": "llegar",
-    "count": 587,
+    "count": 2087,
     "perc": 0.009701677547,
     "translation": "aller à"
   },
