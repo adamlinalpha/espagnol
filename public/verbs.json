@@ -85,7 +85,7 @@
   },
   {
     "infinitive": "poner",
-    "count": 586,
+    "count": 5086,
     "perc": 0.009685149988,
     "translation": "mettre"
   },
@@ -105,7 +105,8 @@
     "infinitive": "llevar",
     "count": 568,
     "perc": 0.009387653913,
-    "translation": "transporter"
+    "translation":
+    "transporter"
   },
   {
     "infinitive": "dejar",
@@ -115,7 +116,7 @@
   },
   {
     "infinitive": "querer",
-    "count": 515,
+    "count": 5015,
     "perc": 0.008511693248,
     "translation": "vouloir"
   },
@@ -139,7 +140,7 @@
   },
   {
     "infinitive": "salir",
-    "count": 433,
+    "count": 4033,
     "perc": 0.007156433353,
     "translation": "sortir"
   },
@@ -175,7 +176,7 @@
   },
   {
     "infinitive": "venir",
-    "count": 314,
+    "count": 5014,
     "perc": 0.005189653748,
     "translation": "venir"
   },
@@ -553,7 +554,7 @@
   },
   {
     "infinitive": "traer",
-    "count": 95,
+    "count": 4005,
     "perc": 0.001570118172,
     "translation": "apporter"
   },
