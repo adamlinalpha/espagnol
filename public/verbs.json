@@ -1,0 +1,5642 @@
+[
+  {
+    "verb": "ser",
+    "perc": "0,0593972692",
+    "count": "898,1627565",
+    "translation": "être"
+  },
+  {
+    "verb": "decir",
+    "perc": "0,03239251846",
+    "count": "489,8163512",
+    "translation": "dire"
+  },
+  {
+    "verb": "estar",
+    "perc": "0,02773208357",
+    "count": "419,344609",
+    "translation": "être"
+  },
+  {
+    "verb": "tener",
+    "perc": "0,02441914407",
+    "count": "369,2487221",
+    "translation": "avoir"
+  },
+  {
+    "verb": "hacer",
+    "perc": "0,02390582129",
+    "count": "361,4866245",
+    "translation": "faire"
+  },
+  {
+    "verb": "ir",
+    "perc": "0,0234219742",
+    "count": "354,1702371",
+    "translation": "aller"
+  },
+  {
+    "verb": "poder",
+    "perc": "0,02253356572",
+    "count": "340,7363633",
+    "translation": "pouvoir"
+  },
+  {
+    "verb": "saber",
+    "perc": "0,0151134226",
+    "count": "228,5342994",
+    "translation": "savoir"
+  },
+  {
+    "verb": "ver",
+    "perc": "0,01600672221",
+    "count": "242,0421332",
+    "translation": "regarder"
+  },
+  {
+    "verb": "dar",
+    "perc": "0,01552391182",
+    "count": "234,7414219",
+    "translation": "donner"
+  },
+  {
+    "verb": "poner",
+    "perc": "0,01233758299",
+    "count": "186,5600506",
+    "translation": "mettre, poser"
+  },
+  {
+    "verb": "querer",
+    "perc": "0,01123142618",
+    "count": "169,8335435",
+    "translation": "vouloir"
+  },
+  {
+    "verb": "seguir",
+    "perc": "0,009514271152",
+    "count": "143,8679609",
+    "translation": "continuer"
+  },
+  {
+    "verb": "sentir",
+    "perc": "0,008922735346",
+    "count": "134,9231822",
+    "translation": "sentir"
+  },
+  {
+    "verb": "salir",
+    "perc": "0,00847413359",
+    "count": "128,1397493",
+    "translation": "sortir"
+  },
+  {
+    "verb": "parecer",
+    "perc": "0,008778843559",
+    "count": "132,7473542",
+    "translation": "paraître"
+  },
+  {
+    "verb": "pensar",
+    "perc": "0,008094189824",
+    "count": "122,3945131",
+    "translation": "penser"
+  },
+  {
+    "verb": "llegar",
+    "perc": "0,008020336075",
+    "count": "121,2777499",
+    "translation": "arriver"
+  },
+  {
+    "verb": "empezar",
+    "perc": "0,0072500547",
+    "count": "109,6301093",
+    "translation": "commencer"
+  },
+  {
+    "verb": "volver",
+    "perc": "0,007513443035",
+    "count": "113,6128781",
+    "translation": "revenir"
+  },
+  {
+    "verb": "dormir",
+    "perc": "0,006193253177",
+    "count": "93,64991726",
+    "translation": "dormir"
+  },
+  {
+    "verb": "caer",
+    "perc": "0,005531446138",
+    "count": "83,64254751",
+    "translation": "tomber"
+  },
+  {
+    "verb": "morir",
+    "perc": "0,005264528621",
+    "count": "79,60641292",
+    "translation": "mourir"
+  },
+  {
+    "verb": "creer",
+    "perc": "0,005883532416",
+    "count": "88,96654281",
+    "translation": "croire"
+  },
+  {
+    "verb": "encontrar",
+    "perc": "0,006240225963",
+    "count": "94,36020592",
+    "translation": "trouver"
+  },
+  {
+    "verb": "conseguir",
+    "perc": "0,004870295702",
+    "count": "73,64510645",
+    "translation": "obtenir"
+  },
+  {
+    "verb": "andar",
+    "perc": "0,005266633647",
+    "count": "79,6382436",
+    "translation": "marcher"
+  },
+  {
+    "verb": "contar",
+    "perc": "0,005427682297",
+    "count": "82,07350538",
+    "translation": "compter"
+  },
+  {
+    "verb": "pedir",
+    "perc": "0,004374009796",
+    "count": "66,14062816",
+    "translation": "demander"
+  },
+  {
+    "verb": "buscar",
+    "perc": "0,005277194736",
+    "count": "79,79794079",
+    "translation": "chercher"
+  },
+  {
+    "verb": "repetir",
+    "perc": "0,004270268059",
+    "count": "64,57192027",
+    "translation": "répéter"
+  },
+  {
+    "verb": "conocer",
+    "perc": "0,005150967745",
+    "count": "77,88922708",
+    "translation": "savoir"
+  },
+  {
+    "verb": "perder",
+    "perc": "0,005123819629",
+    "count": "77,47871281",
+    "translation": "perdre"
+  },
+  {
+    "verb": "servir",
+    "perc": "0,00416483544",
+    "count": "62,97764409",
+    "translation": "servir"
+  },
+  {
+    "verb": "suponer",
+    "perc": "0,00382847904",
+    "count": "57,89150468",
+    "translation": "supposer"
+  },
+  {
+    "verb": "mantener",
+    "perc": "0,003572836271",
+    "count": "54,02585871",
+    "translation": "garder"
+  },
+  {
+    "verb": "sacar",
+    "perc": "0,004714661337",
+    "count": "71,29171559",
+    "translation": "enlever"
+  },
+  {
+    "verb": "traer",
+    "perc": "0,003694714403",
+    "count": "55,86881211",
+    "translation": "apporter"
+  },
+  {
+    "verb": "detener",
+    "perc": "0,00326941126",
+    "count": "49,43768407",
+    "translation": "arrêter"
+  },
+  {
+    "verb": "leer",
+    "perc": "0,004048544098",
+    "count": "61,2191701",
+    "translation": "lire"
+  },
+  {
+    "verb": "entender",
+    "perc": "0,004142050985",
+    "count": "62,63311396",
+    "translation": "comprendre"
+  },
+  {
+    "verb": "recordar",
+    "perc": "0,003868708691",
+    "count": "58,49982852",
+    "translation": "rappeler"
+  },
+  {
+    "verb": "alcanzar",
+    "perc": "0,003733980025",
+    "count": "56,46255858",
+    "translation": "atteindre"
+  },
+  {
+    "verb": "tocar",
+    "perc": "0,003439985862",
+    "count": "52,01699045",
+    "translation": "toucher"
+  },
+  {
+    "verb": "explicar",
+    "perc": "0,003425575093",
+    "count": "51,79908117",
+    "translation": "expliquer"
+  },
+  {
+    "verb": "jugar",
+    "perc": "0,003140655515",
+    "count": "47,49073237",
+    "translation": "jouer"
+  },
+  {
+    "verb": "convertir",
+    "perc": "0,002743181072",
+    "count": "41,4804099",
+    "translation": "convertir"
+  },
+  {
+    "verb": "proponer",
+    "perc": "0,002411540386",
+    "count": "36,46557813",
+    "translation": "proposer"
+  },
+  {
+    "verb": "aparecer",
+    "perc": "0,003113017488",
+    "count": "47,07281002",
+    "translation": "apparaître"
+  },
+  {
+    "verb": "despertar",
+    "perc": "0,003019866053",
+    "count": "45,66424105",
+    "translation": "réveiller"
+  },
+  {
+    "verb": "preferir",
+    "perc": "0,002452825005",
+    "count": "37,08985442",
+    "translation": "préférer"
+  },
+  {
+    "verb": "producir",
+    "perc": "0,002425586788",
+    "count": "36,67797771",
+    "translation": "produire"
+  },
+  {
+    "verb": "advertir",
+    "perc": "0,00236122569",
+    "count": "35,7047555",
+    "translation": "avertir"
+  },
+  {
+    "verb": "cerrar",
+    "perc": "0,002711369656",
+    "count": "40,99938055",
+    "translation": "fermer"
+  },
+  {
+    "verb": "colgar",
+    "perc": "0,002510057272",
+    "count": "37,95527957",
+    "translation": "raccrocher"
+  },
+  {
+    "verb": "obtener",
+    "perc": "0,002005909848",
+    "count": "30,33192506",
+    "translation": "obtenir"
+  },
+  {
+    "verb": "construir",
+    "perc": "0,002104519822",
+    "count": "31,82303412",
+    "translation": "construire"
+  },
+  {
+    "verb": "negar",
+    "perc": "0,002357914122",
+    "count": "35,65468035",
+    "translation": "refuser"
+  },
+  {
+    "verb": "mover",
+    "perc": "0,002521731258",
+    "count": "38,13180519",
+    "translation": "se déplacer"
+  },
+  {
+    "verb": "mostrar",
+    "perc": "0,00246836528",
+    "count": "37,32484328",
+    "translation": "montrer"
+  },
+  {
+    "verb": "elegir",
+    "perc": "0,001968130158",
+    "count": "29,76064778",
+    "translation": "choisir"
+  },
+  {
+    "verb": "reconocer",
+    "perc": "0,002396001795",
+    "count": "36,23061474",
+    "translation": "reconnaître"
+  },
+  {
+    "verb": "valer",
+    "perc": "0,002020496426",
+    "count": "30,55249281",
+    "translation": "valoir"
+  },
+  {
+    "verb": "contener",
+    "perc": "0,001686735989",
+    "count": "25,50560768",
+    "translation": "contenir"
+  },
+  {
+    "verb": "nacer",
+    "perc": "0,002246746955",
+    "count": "33,97369046",
+    "translation": "naître"
+  },
+  {
+    "verb": "cruzar",
+    "perc": "0,002246746955",
+    "count": "33,97369046",
+    "translation": "croiser"
+  },
+  {
+    "verb": "sonar",
+    "perc": "0,002227630381",
+    "count": "33,6846234",
+    "translation": "rêver"
+  },
+  {
+    "verb": "convenir",
+    "perc": "0,001650183203",
+    "count": "24,95288276",
+    "translation": "accepter"
+  },
+  {
+    "verb": "acercar",
+    "perc": "0,002208404915",
+    "count": "33,39390974",
+    "translation": "agrandir"
+  },
+  {
+    "verb": "acordar",
+    "perc": "0,002189068344",
+    "count": "33,10151602",
+    "translation": "accepter"
+  },
+  {
+    "verb": "costar",
+    "perc": "0,002150052643",
+    "count": "32,51154867",
+    "translation": "coûter"
+  },
+  {
+    "verb": "vestir",
+    "perc": "0,001750886934",
+    "count": "26,4756521",
+    "translation": "s'habiller"
+  },
+  {
+    "verb": "componer",
+    "perc": "0,001612779127",
+    "count": "24,38728524",
+    "translation": "composer"
+  },
+  {
+    "verb": "sentar",
+    "perc": "0,002130368681",
+    "count": "32,21390197",
+    "translation": "s'asseoir"
+  },
+  {
+    "verb": "encender",
+    "perc": "0,002130368681",
+    "count": "32,21390197",
+    "translation": "allumer"
+  },
+  {
+    "verb": "conducir",
+    "perc": "0,001693923279",
+    "count": "25,61428871",
+    "translation": "conduire"
+  },
+  {
+    "verb": "despedir",
+    "perc": "0,001674440571",
+    "count": "25,31968522",
+    "translation": "rejeter"
+  },
+  {
+    "verb": "replicar",
+    "perc": "0,00203008275",
+    "count": "30,6974503",
+    "translation": "reproduire"
+  },
+  {
+    "verb": "volar",
+    "perc": "0,00203008275",
+    "count": "30,6974503",
+    "translation": "voler"
+  },
+  {
+    "verb": "pagar",
+    "perc": "0,001989043628",
+    "count": "30,07688623",
+    "translation": "payer"
+  },
+  {
+    "verb": "avanzar",
+    "perc": "0,001968313296",
+    "count": "29,76341706",
+    "translation": "avancer"
+  },
+  {
+    "verb": "resolver",
+    "perc": "0,001931667031",
+    "count": "29,20927861",
+    "translation": "résoudre"
+  },
+  {
+    "verb": "sugerir",
+    "perc": "0,001595617205",
+    "count": "24,127775",
+    "translation": "suggérer"
+  },
+  {
+    "verb": "doler",
+    "perc": "0,001887420191",
+    "count": "28,54020974",
+    "translation": "blesser"
+  },
+  {
+    "verb": "permanecer",
+    "perc": "0,001905236915",
+    "count": "28,80962143",
+    "translation": "rester"
+  },
+  {
+    "verb": "soñar",
+    "perc": "0,001905236915",
+    "count": "28,80962143",
+    "translation": "rêver"
+  },
+  {
+    "verb": "pegar",
+    "perc": "0,001883903671",
+    "count": "28,48703546",
+    "translation": "coller"
+  },
+  {
+    "verb": "pasar",
+    "perc": "0,003509980675",
+    "count": "53,07540163",
+    "translation": "passer"
+  },
+  {
+    "verb": "huir",
+    "perc": "0,001488328365",
+    "count": "22,50543039",
+    "translation": "fuir"
+  },
+  {
+    "verb": "atacar",
+    "perc": "0,0018189225",
+    "count": "27,50443696",
+    "translation": "attaquer"
+  },
+  {
+    "verb": "constituir",
+    "perc": "0,001472291493",
+    "count": "22,26293234",
+    "translation": "se maquiller"
+  },
+  {
+    "verb": "destruir",
+    "perc": "0,001429648144",
+    "count": "21,61811031",
+    "translation": "détruire"
+  },
+  {
+    "verb": "significar",
+    "perc": "0,001752371395",
+    "count": "26,49809904",
+    "translation": "signifier"
+  },
+  {
+    "verb": "ofrecer",
+    "perc": "0,001729814899",
+    "count": "26,15701595",
+    "translation": "offrir"
+  },
+  {
+    "verb": "comenzar",
+    "perc": "0,001582104595",
+    "count": "23,92344704",
+    "translation": "commencer"
+  },
+  {
+    "verb": "requerir",
+    "perc": "0,00138614815",
+    "count": "20,96033472",
+    "translation": "exiger"
+  },
+  {
+    "verb": "devolver",
+    "perc": "0,001643826847",
+    "count": "24,85676651",
+    "translation": "retourner"
+  },
+  {
+    "verb": "demostrar",
+    "perc": "0,001684108322",
+    "count": "25,46587398",
+    "translation": "démontrer"
+  },
+  {
+    "verb": "atraer",
+    "perc": "0,001356342491",
+    "count": "20,50963499",
+    "translation": "attirer"
+  },
+  {
+    "verb": "indicar",
+    "perc": "0,001660945686",
+    "count": "25,11562527",
+    "translation": "indiquer"
+  },
+  {
+    "verb": "incluir",
+    "perc": "0,001341727779",
+    "count": "20,28864182",
+    "translation": "inclure"
+  },
+  {
+    "verb": "rechazar",
+    "perc": "0,001637567865",
+    "count": "24,76212269",
+    "translation": "décliner"
+  },
+  {
+    "verb": "provocar",
+    "perc": "0,001637567865",
+    "count": "24,76212269",
+    "translation": "provoquer"
+  },
+  {
+    "verb": "hablar",
+    "perc": "0,003052640285",
+    "count": "46,1598294",
+    "translation": "parler"
+  },
+  {
+    "verb": "mirar",
+    "perc": "0,00302076973",
+    "count": "45,6779058",
+    "translation": "regarder"
+  },
+  {
+    "verb": "llevar",
+    "perc": "0,003017570473",
+    "count": "45,62952894",
+    "translation": "apporter"
+  },
+  {
+    "verb": "establecer",
+    "perc": "0,001590137462",
+    "count": "24,04491428",
+    "translation": "établir"
+  },
+  {
+    "verb": "continuar",
+    "perc": "0,001590137462",
+    "count": "24,04491428",
+    "translation": "continuer"
+  },
+  {
+    "verb": "apagar",
+    "perc": "0,001590137462",
+    "count": "24,04491428",
+    "translation": "éteindre"
+  },
+  {
+    "verb": "dejar",
+    "perc": "0,002940103239",
+    "count": "44,45812519",
+    "translation": "laisser"
+  },
+  {
+    "verb": "perseguir",
+    "perc": "0,001249826241",
+    "count": "18,89897291",
+    "translation": "chasser"
+  },
+  {
+    "verb": "reducir",
+    "perc": "0,001235947127",
+    "count": "18,68910294",
+    "translation": "réduire"
+  },
+  {
+    "verb": "traducir",
+    "perc": "0,001235947127",
+    "count": "18,68910294",
+    "translation": "traduire"
+  },
+  {
+    "verb": "quedar",
+    "perc": "0,002824647884",
+    "count": "42,7122924",
+    "translation": "rencontrer"
+  },
+  {
+    "verb": "oponer",
+    "perc": "0,001125037181",
+    "count": "17,01200256",
+    "translation": "s'opposer"
+  },
+  {
+    "verb": "dedicar",
+    "perc": "0,00149234734",
+    "count": "22,56620244",
+    "translation": "dédicacer"
+  },
+  {
+    "verb": "oler",
+    "perc": "0,001467235281",
+    "count": "22,18647595",
+    "translation": "sentir"
+  },
+  {
+    "verb": "probar",
+    "perc": "0,001441836282",
+    "count": "21,80241057",
+    "translation": "tester"
+  },
+  {
+    "verb": "hervir",
+    "perc": "0,001153226812",
+    "count": "17,43826587",
+    "translation": "bouillir"
+  },
+  {
+    "verb": "medir",
+    "perc": "0,001153226812",
+    "count": "17,43826587",
+    "translation": "mesurer"
+  },
+  {
+    "verb": "poseer",
+    "perc": "0,001272874926",
+    "count": "19,24749855",
+    "translation": "posséder"
+  },
+  {
+    "verb": "apretar",
+    "perc": "0,001363794542",
+    "count": "20,62231953",
+    "translation": "presser"
+  },
+  {
+    "verb": "acostar",
+    "perc": "0,001363794542",
+    "count": "20,62231953",
+    "translation": "coucher"
+  },
+  {
+    "verb": "desaparecer",
+    "perc": "0,001337119955",
+    "count": "20,21896563",
+    "translation": "disparaître"
+  },
+  {
+    "verb": "recoger",
+    "perc": "0,001337119955",
+    "count": "20,21896563",
+    "translation": "ranger"
+  },
+  {
+    "verb": "distinguir",
+    "perc": "0,001337119955",
+    "count": "20,21896563",
+    "translation": "distinguer"
+  },
+  {
+    "verb": "crecer",
+    "perc": "0,001310089417",
+    "count": "19,81022929",
+    "translation": "croître"
+  },
+  {
+    "verb": "deber",
+    "perc": "0,002417121685",
+    "count": "36,54997452",
+    "translation": "devoir"
+  },
+  {
+    "verb": "obligar",
+    "perc": "0,001282685648",
+    "count": "19,39584922",
+    "translation": "obliger"
+  },
+  {
+    "verb": "tropezar",
+    "perc": "0,001170094041",
+    "count": "17,69331997",
+    "translation": "trébucher"
+  },
+  {
+    "verb": "colocar",
+    "perc": "0,001254889879",
+    "count": "18,97554161",
+    "translation": "placer"
+  },
+  {
+    "verb": "pertenecer",
+    "perc": "0,001254889879",
+    "count": "18,97554161",
+    "translation": "appartenir"
+  },
+  {
+    "verb": "satisfacer",
+    "perc": "0,0009286498592",
+    "count": "14,04237482",
+    "translation": "satisfaire"
+  },
+  {
+    "verb": "deshacer",
+    "perc": "0,0009286498592",
+    "count": "14,04237482",
+    "translation": "annuler"
+  },
+  {
+    "verb": "exigir",
+    "perc": "0,00122668166",
+    "count": "18,54899721",
+    "translation": "exiger"
+  },
+  {
+    "verb": "atender",
+    "perc": "0,00122668166",
+    "count": "18,54899721",
+    "translation": "assister à"
+  },
+  {
+    "verb": "corregir",
+    "perc": "0,0009972892697",
+    "count": "15,08029059",
+    "translation": "corriger"
+  },
+  {
+    "verb": "divertir",
+    "perc": "0,0009972892697",
+    "count": "15,08029059",
+    "translation": "amuser"
+  },
+  {
+    "verb": "vencer",
+    "perc": "0,001198572804",
+    "count": "18,12395533",
+    "translation": "battre"
+  },
+  {
+    "verb": "llover",
+    "perc": "0,001198572804",
+    "count": "18,12395533",
+    "translation": "pleuvoir"
+  },
+  {
+    "verb": "confiar",
+    "perc": "0,001198038637",
+    "count": "18,11587804",
+    "translation": "compter sur"
+  },
+  {
+    "verb": "averiguar",
+    "perc": "0,001168233989",
+    "count": "17,6651936",
+    "translation": "comprendre"
+  },
+  {
+    "verb": "almorzar",
+    "perc": "0,001098135709",
+    "count": "16,60521787",
+    "translation": "déjeuner"
+  },
+  {
+    "verb": "merecer",
+    "perc": "0,001168936297",
+    "count": "17,6758134",
+    "translation": "mériter"
+  },
+  {
+    "verb": "esperar",
+    "perc": "0,002183581056",
+    "count": "33,01854121",
+    "translation": "attendre à"
+  },
+  {
+    "verb": "consentir",
+    "perc": "0,0009416419408",
+    "count": "14,23883173",
+    "translation": "consentir"
+  },
+  {
+    "verb": "descender",
+    "perc": "0,001139347654",
+    "count": "17,22839524",
+    "translation": "descendre"
+  },
+  {
+    "verb": "cargar",
+    "perc": "0,001139347654",
+    "count": "17,22839524",
+    "translation": "porter"
+  },
+  {
+    "verb": "surgir",
+    "perc": "0,001139347654",
+    "count": "17,22839524",
+    "translation": "émerger"
+  },
+  {
+    "verb": "venir",
+    "perc": "0,002111474899",
+    "count": "31,92820379",
+    "translation": "venir"
+  },
+  {
+    "verb": "convencer",
+    "perc": "0,001109242883",
+    "count": "16,77317255",
+    "translation": "convaincre"
+  },
+  {
+    "verb": "proteger",
+    "perc": "0,001109242883",
+    "count": "16,77317255",
+    "translation": "protéger"
+  },
+  {
+    "verb": "lanzar",
+    "perc": "0,00107390255",
+    "count": "16,23878147",
+    "translation": "lancement"
+  },
+  {
+    "verb": "contribuir",
+    "perc": "0,0008837329346",
+    "count": "13,36317341",
+    "translation": "contribuer"
+  },
+  {
+    "verb": "cazar",
+    "perc": "0,001078588875",
+    "count": "16,3096447",
+    "translation": "chasser"
+  },
+  {
+    "verb": "tratar",
+    "perc": "0,002025238933",
+    "count": "30,62420558",
+    "translation": "traiter"
+  },
+  {
+    "verb": "criar",
+    "perc": "0,001003044068",
+    "count": "15,1673105",
+    "translation": "nourir"
+  },
+  {
+    "verb": "amanecer",
+    "perc": "0,001047348701",
+    "count": "15,83725328",
+    "translation": "lever du soleil"
+  },
+  {
+    "verb": "organizar",
+    "perc": "0,001047348701",
+    "count": "15,83725328",
+    "translation": "organiser"
+  },
+  {
+    "verb": "actuar",
+    "perc": "0,001047348701",
+    "count": "15,83725328",
+    "translation": "agir"
+  },
+  {
+    "verb": "irse",
+    "perc": "0,0007808861103",
+    "count": "11,80799776",
+    "translation": "partir"
+  },
+  {
+    "verb": "tomar",
+    "perc": "0,001919301664",
+    "count": "29,02229844",
+    "translation": "prendre"
+  },
+  {
+    "verb": "extender",
+    "perc": "0,001015480957",
+    "count": "15,35537219",
+    "translation": "étendre"
+  },
+  {
+    "verb": "llamar",
+    "perc": "0,001901993299",
+    "count": "28,7605738",
+    "translation": "appeler"
+  },
+  {
+    "verb": "presentir",
+    "perc": "0,0008232017175",
+    "count": "12,44786391",
+    "translation": "présager"
+  },
+  {
+    "verb": "entrar",
+    "perc": "0,001853849186",
+    "count": "28,03257318",
+    "translation": "entrer"
+  },
+  {
+    "verb": "defender",
+    "perc": "0,0009829389506",
+    "count": "14,86329539",
+    "translation": "défendre"
+  },
+  {
+    "verb": "secar",
+    "perc": "0,0009829389506",
+    "count": "14,86329539",
+    "translation": "se sécher"
+  },
+  {
+    "verb": "preguntar",
+    "perc": "0,00181831078",
+    "count": "27,49518697",
+    "translation": "demander"
+  },
+  {
+    "verb": "confesar",
+    "perc": "0,000949669694",
+    "count": "14,36022163",
+    "translation": "confesser"
+  },
+  {
+    "verb": "tragar",
+    "perc": "0,000949669694",
+    "count": "14,36022163",
+    "translation": "avaler"
+  },
+  {
+    "verb": "abrir",
+    "perc": "0,001782307887",
+    "count": "26,95077714",
+    "translation": "ouvrir"
+  },
+  {
+    "verb": "acabar",
+    "perc": "0,001768682605",
+    "count": "26,74474542",
+    "translation": "finir"
+  },
+  {
+    "verb": "vivir",
+    "perc": "0,001764125432",
+    "count": "26,67583514",
+    "translation": "vivre"
+  },
+  {
+    "verb": "sustituir",
+    "perc": "0,0007595762203",
+    "count": "11,48576494",
+    "translation": "remplacer"
+  },
+  {
+    "verb": "influir",
+    "perc": "0,0007595762203",
+    "count": "11,48576494",
+    "translation": "influencer"
+  },
+  {
+    "verb": "fabricar",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "fabriquer"
+  },
+  {
+    "verb": "comunicar",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "communiquer"
+  },
+  {
+    "verb": "agradecer",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "remercier"
+  },
+  {
+    "verb": "fingir",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "prétendre"
+  },
+  {
+    "verb": "marcar",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "marquer"
+  },
+  {
+    "verb": "pescar",
+    "perc": "0,0009156126253",
+    "count": "13,84523515",
+    "translation": "pêcher"
+  },
+  {
+    "verb": "introducir",
+    "perc": "0,0007511412517",
+    "count": "11,35821741",
+    "translation": "introduire"
+  },
+  {
+    "verb": "mentir",
+    "perc": "0,0006922165344",
+    "count": "10,46720024",
+    "translation": "mensonge"
+  },
+  {
+    "verb": "proseguir",
+    "perc": "0,0006922165344",
+    "count": "10,46720024",
+    "translation": "poursuivre"
+  },
+  {
+    "verb": "disminuir",
+    "perc": "0,0006922165344",
+    "count": "10,46720024",
+    "translation": "diminuer"
+  },
+  {
+    "verb": "abrazar",
+    "perc": "0,0008448446625",
+    "count": "12,77513295",
+    "translation": "embrasser"
+  },
+  {
+    "verb": "comprender",
+    "perc": "0,001579811422",
+    "count": "23,88877133",
+    "translation": "saisir"
+  },
+  {
+    "verb": "crear",
+    "perc": "0,001574900745",
+    "count": "23,81451561",
+    "translation": "créer"
+  },
+  {
+    "verb": "ocurrir",
+    "perc": "0,001569979942",
+    "count": "23,74010677",
+    "translation": "se produire"
+  },
+  {
+    "verb": "comer",
+    "perc": "0,001569979942",
+    "count": "23,74010677",
+    "translation": "manger"
+  },
+  {
+    "verb": "oir",
+    "perc": "0,001535244455",
+    "count": "23,21486174",
+    "translation": "entendre"
+  },
+  {
+    "verb": "utilizar",
+    "perc": "0,0008079574712",
+    "count": "12,21735139",
+    "translation": "utiliser"
+  },
+  {
+    "verb": "obedecer",
+    "perc": "0,0008079574712",
+    "count": "12,21735139",
+    "translation": "obéir"
+  },
+  {
+    "verb": "enviar",
+    "perc": "0,0008079574712",
+    "count": "12,21735139",
+    "translation": "Envoyer"
+  },
+  {
+    "verb": "amenazar",
+    "perc": "0,0008079574712",
+    "count": "12,21735139",
+    "translation": "menacer"
+  },
+  {
+    "verb": "subir",
+    "perc": "0,001479584929",
+    "count": "22,37321844",
+    "translation": "augmenter"
+  },
+  {
+    "verb": "guiar",
+    "perc": "0,0007232903042",
+    "count": "10,93707543",
+    "translation": "guide"
+  },
+  {
+    "verb": "ejercer",
+    "perc": "0,0007699233187",
+    "count": "11,64222631",
+    "translation": "exercice"
+  },
+  {
+    "verb": "aplicar",
+    "perc": "0,0007699233187",
+    "count": "11,64222631",
+    "translation": "appliquer"
+  },
+  {
+    "verb": "envejecer",
+    "perc": "0,0007699233187",
+    "count": "11,64222631",
+    "translation": "vieillir"
+  },
+  {
+    "verb": "sacrificar",
+    "perc": "0,0007699233187",
+    "count": "11,64222631",
+    "translation": "sacrifier"
+  },
+  {
+    "verb": "llorar",
+    "perc": "0,001432996526",
+    "count": "21,66874213",
+    "translation": "pleurer"
+  },
+  {
+    "verb": "terminar",
+    "perc": "0,001385386122",
+    "count": "20,94881187",
+    "translation": "finir"
+  },
+  {
+    "verb": "gustar",
+    "perc": "0,001374659073",
+    "count": "20,78660516",
+    "translation": "aimer"
+  },
+  {
+    "verb": "rezar",
+    "perc": "0,0007306060767",
+    "count": "11,04769927",
+    "translation": "prier"
+  },
+  {
+    "verb": "padecer",
+    "perc": "0,0007306060767",
+    "count": "11,04769927",
+    "translation": "souffrir"
+  },
+  {
+    "verb": "levantar",
+    "perc": "0,001325685033",
+    "count": "20,04605497",
+    "translation": "se lever"
+  },
+  {
+    "verb": "escuchar",
+    "perc": "0,001314639386",
+    "count": "19,87903065",
+    "translation": "entendre"
+  },
+  {
+    "verb": "acordarse",
+    "perc": "0,0006898392923",
+    "count": "10,4312533",
+    "translation": "souviens-toi"
+  },
+  {
+    "verb": "acostarse",
+    "perc": "0,0006898392923",
+    "count": "10,4312533",
+    "translation": "allongez-vous"
+  },
+  {
+    "verb": "prohibir",
+    "perc": "0,0006898392923",
+    "count": "10,4312533",
+    "translation": "interdire"
+  },
+  {
+    "verb": "calentar",
+    "perc": "0,0006898392923",
+    "count": "10,4312533",
+    "translation": "chaleur"
+  },
+  {
+    "verb": "escribir",
+    "perc": "0,0012867531",
+    "count": "19,4573543",
+    "translation": "Écrire"
+  },
+  {
+    "verb": "permitir",
+    "perc": "0,001264153667",
+    "count": "19,11562194",
+    "translation": "permettre"
+  },
+  {
+    "verb": "echar",
+    "perc": "0,001252753462",
+    "count": "18,94323624",
+    "translation": "lancer"
+  },
+  {
+    "verb": "practicar",
+    "perc": "0,0006474156213",
+    "count": "9,78975308",
+    "translation": "pratiquer"
+  },
+  {
+    "verb": "errar",
+    "perc": "0,0006474156213",
+    "count": "9,78975308",
+    "translation": "se tromper"
+  },
+  {
+    "verb": "escoger",
+    "perc": "0,0006474156213",
+    "count": "9,78975308",
+    "translation": "choisir"
+  },
+  {
+    "verb": "publicar",
+    "perc": "0,0006474156213",
+    "count": "9,78975308",
+    "translation": "publier"
+  },
+  {
+    "verb": "prever",
+    "perc": "0,00056077218",
+    "count": "8,479593317",
+    "translation": "prévoir"
+  },
+  {
+    "verb": "recibir",
+    "perc": "0,001206448636",
+    "count": "18,24304799",
+    "translation": "recevoir"
+  },
+  {
+    "verb": "cambiar",
+    "perc": "0,001200578105",
+    "count": "18,15427805",
+    "translation": "changer"
+  },
+  {
+    "verb": "matar",
+    "perc": "0,001182851593",
+    "count": "17,88623049",
+    "translation": "tuer"
+  },
+  {
+    "verb": "meter",
+    "perc": "0,001182851593",
+    "count": "17,88623049",
+    "translation": "mettre"
+  },
+  {
+    "verb": "tirar",
+    "perc": "0,001170935916",
+    "count": "17,7060502",
+    "translation": "lancer"
+  },
+  {
+    "verb": "imaginar",
+    "perc": "0,001158939666",
+    "count": "17,52465154",
+    "translation": "imaginer"
+  },
+  {
+    "verb": "gritar",
+    "perc": "0,001146860894",
+    "count": "17,34200504",
+    "translation": "crier"
+  },
+  {
+    "verb": "bajar",
+    "perc": "0,001146860894",
+    "count": "17,34200504",
+    "translation": "inférieur"
+  },
+  {
+    "verb": "navegar",
+    "perc": "0,0006030709398",
+    "count": "9,119204721",
+    "translation": "parcourir"
+  },
+  {
+    "verb": "bautizar",
+    "perc": "0,0006030709398",
+    "count": "9,119204721",
+    "translation": "baptiser"
+  },
+  {
+    "verb": "coger",
+    "perc": "0,0006030709398",
+    "count": "9,119204721",
+    "translation": "prendre"
+  },
+  {
+    "verb": "decidir",
+    "perc": "0,001122447574",
+    "count": "16,97284439",
+    "translation": "décider"
+  },
+  {
+    "verb": "descubrir",
+    "perc": "0,001122447574",
+    "count": "16,97284439",
+    "translation": "découvrir"
+  },
+  {
+    "verb": "torcer",
+    "perc": "0,0005555361742",
+    "count": "8,400418206",
+    "translation": "torsion"
+  },
+  {
+    "verb": "lograr",
+    "perc": "0,001103905213",
+    "count": "16,69246015",
+    "translation": "atteindre"
+  },
+  {
+    "verb": "faltar",
+    "perc": "0,001091428654",
+    "count": "16,5037986",
+    "translation": "manque"
+  },
+  {
+    "verb": "olvidar",
+    "perc": "0,001085154963",
+    "count": "16,40893236",
+    "translation": "oublier"
+  },
+  {
+    "verb": "bastar",
+    "perc": "0,001066188393",
+    "count": "16,12213355",
+    "translation": "être assez"
+  },
+  {
+    "verb": "ganar",
+    "perc": "0,001046996468",
+    "count": "15,83192707",
+    "translation": "gagner"
+  },
+  {
+    "verb": "aprobar",
+    "perc": "0,0005564594137",
+    "count": "8,414378769",
+    "translation": "approuver"
+  },
+  {
+    "verb": "enriquecer",
+    "perc": "0,0005564594137",
+    "count": "8,414378769",
+    "translation": "pour enrichir"
+  },
+  {
+    "verb": "afligir",
+    "perc": "0,0005564594137",
+    "count": "8,414378769",
+    "translation": "affliger"
+  },
+  {
+    "verb": "regresar",
+    "perc": "0,001040547424",
+    "count": "15,73440926",
+    "translation": "retourner"
+  },
+  {
+    "verb": "contestar",
+    "perc": "0,001027569484",
+    "count": "15,53816619",
+    "translation": "répondre"
+  },
+  {
+    "verb": "importar",
+    "perc": "0,001001283024",
+    "count": "15,14068127",
+    "translation": "matière"
+  },
+  {
+    "verb": "quitar",
+    "perc": "0,001001283024",
+    "count": "15,14068127",
+    "translation": "supprimer"
+  },
+  {
+    "verb": "nevar",
+    "perc": "0,0005199692697",
+    "count": "7,862601074",
+    "translation": "neiger"
+  },
+  {
+    "verb": "correr",
+    "perc": "0,0009745329509",
+    "count": "14,73618591",
+    "translation": "courir"
+  },
+  {
+    "verb": "abandonar",
+    "perc": "0,0009677695403",
+    "count": "14,63391448",
+    "translation": "abandonner"
+  },
+  {
+    "verb": "educar",
+    "perc": "0,0005071122509",
+    "count": "7,668186489",
+    "translation": "éduquer"
+  },
+  {
+    "verb": "vaciar",
+    "perc": "0,0005071122509",
+    "count": "7,668186489",
+    "translation": "vide"
+  },
+  {
+    "verb": "clasificar",
+    "perc": "0,0005071122509",
+    "count": "7,668186489",
+    "translation": "Trier"
+  },
+  {
+    "verb": "verificar",
+    "perc": "0,0005071122509",
+    "count": "7,668186489",
+    "translation": "vérifier"
+  },
+  {
+    "verb": "guardar",
+    "perc": "0,000926512296",
+    "count": "14,01005213",
+    "translation": "sauvegarder"
+  },
+  {
+    "verb": "cumplir",
+    "perc": "0,000926512296",
+    "count": "14,01005213",
+    "translation": "atteindre"
+  },
+  {
+    "verb": "necesitar",
+    "perc": "0,000926512296",
+    "count": "14,01005213",
+    "translation": "avoir besoin"
+  },
+  {
+    "verb": "existir",
+    "perc": "0,0009054232284",
+    "count": "13,69115843",
+    "translation": "exister"
+  },
+  {
+    "verb": "usar",
+    "perc": "0,0008983212486",
+    "count": "13,5837674",
+    "translation": "porter"
+  },
+  {
+    "verb": "cantar",
+    "perc": "0,0008983212486",
+    "count": "13,5837674",
+    "translation": "chanter"
+  },
+  {
+    "verb": "aceptar",
+    "perc": "0,0008911820164",
+    "count": "13,47581307",
+    "translation": "Accepter"
+  },
+  {
+    "verb": "sospechar",
+    "perc": "0,0008911820164",
+    "count": "13,47581307",
+    "translation": "suspect"
+  },
+  {
+    "verb": "beber",
+    "perc": "0,0008840048359",
+    "count": "13,36728491",
+    "translation": "boire"
+  },
+  {
+    "verb": "resultar",
+    "perc": "0,0008767889883",
+    "count": "13,25817205",
+    "translation": "résulter"
+  },
+  {
+    "verb": "llenar",
+    "perc": "0,0008767889883",
+    "count": "13,25817205",
+    "translation": "remplir"
+  },
+  {
+    "verb": "trabajar",
+    "perc": "0,0008695337313",
+    "count": "13,14846328",
+    "translation": "travailler"
+  },
+  {
+    "verb": "caminar",
+    "perc": "0,0008549018945",
+    "count": "12,92721118",
+    "translation": "marcher"
+  },
+  {
+    "verb": "desear",
+    "perc": "0,0008549018945",
+    "count": "12,92721118",
+    "translation": "souhaiter"
+  },
+  {
+    "verb": "complicar",
+    "perc": "0,0004543646721",
+    "count": "6,870575565",
+    "translation": "Compliquer"
+  },
+  {
+    "verb": "recomendar",
+    "perc": "0,0004543646721",
+    "count": "6,870575565",
+    "translation": "recommander"
+  },
+  {
+    "verb": "picar",
+    "perc": "0,0004543646721",
+    "count": "6,870575565",
+    "translation": "hacher"
+  },
+  {
+    "verb": "mandar",
+    "perc": "0,0008401028691",
+    "count": "12,70343096",
+    "translation": "envoyer"
+  },
+  {
+    "verb": "escapar",
+    "perc": "0,0008326385189",
+    "count": "12,59056043",
+    "translation": "s'échapper"
+  },
+  {
+    "verb": "considerar",
+    "perc": "0,0008251297402",
+    "count": "12,47701808",
+    "translation": "considérer"
+  },
+  {
+    "verb": "saltar",
+    "perc": "0,0008251297402",
+    "count": "12,47701808",
+    "translation": "houblon"
+  },
+  {
+    "verb": "ayudar",
+    "perc": "0,0008175755893",
+    "count": "12,36278965",
+    "translation": "aider"
+  },
+  {
+    "verb": "aprender",
+    "perc": "0,0008175755893",
+    "count": "12,36278965",
+    "translation": "apprendre"
+  },
+  {
+    "verb": "respirar",
+    "perc": "0,0008175755893",
+    "count": "12,36278965",
+    "translation": "respirer"
+  },
+  {
+    "verb": "golpear",
+    "perc": "0,0008023272195",
+    "count": "12,13221478",
+    "translation": "frapper"
+  },
+  {
+    "verb": "temblar",
+    "perc": "0,0007790886692",
+    "count": "11,78081814",
+    "translation": "trembler"
+  },
+  {
+    "verb": "anunciar",
+    "perc": "0,0007790886692",
+    "count": "11,78081814",
+    "translation": "annoncer"
+  },
+  {
+    "verb": "insistir",
+    "perc": "0,0007790886692",
+    "count": "11,78081814",
+    "translation": "insister"
+  },
+  {
+    "verb": "renunciar",
+    "perc": "0,0007790886692",
+    "count": "11,78081814",
+    "translation": "abandonner"
+  },
+  {
+    "verb": "fumar",
+    "perc": "0,0007790886692",
+    "count": "11,78081814",
+    "translation": "fumée"
+  },
+  {
+    "verb": "visitar",
+    "perc": "0,0007712403737",
+    "count": "11,66214187",
+    "translation": "visite"
+  },
+  {
+    "verb": "comprar",
+    "perc": "0,0007712403737",
+    "count": "11,66214187",
+    "translation": "acheter"
+  },
+  {
+    "verb": "disponer",
+    "perc": "0,0007473718803",
+    "count": "11,30121969",
+    "translation": "fournir"
+  },
+  {
+    "verb": "ordenar",
+    "perc": "0,0007393033853",
+    "count": "11,17921372",
+    "translation": "ordonner"
+  },
+  {
+    "verb": "agarrar",
+    "perc": "0,0007393033853",
+    "count": "11,17921372",
+    "translation": "saisir"
+  },
+  {
+    "verb": "armar",
+    "perc": "0,0007393033853",
+    "count": "11,17921372",
+    "translation": "assembler"
+  },
+  {
+    "verb": "ignorar",
+    "perc": "0,0007229892494",
+    "count": "10,93252309",
+    "translation": "ignorer"
+  },
+  {
+    "verb": "preparar",
+    "perc": "0,0007229892494",
+    "count": "10,93252309",
+    "translation": "préparer"
+  },
+  {
+    "verb": "revelar",
+    "perc": "0,0007147404975",
+    "count": "10,8077914",
+    "translation": "révéler"
+  },
+  {
+    "verb": "iniciar",
+    "perc": "0,0007147404975",
+    "count": "10,8077914",
+    "translation": "Commencer"
+  },
+  {
+    "verb": "soltar",
+    "perc": "0,0007064284296",
+    "count": "10,6821023",
+    "translation": "libérer"
+  },
+  {
+    "verb": "admitir",
+    "perc": "0,0007064284296",
+    "count": "10,6821023",
+    "translation": "admettre"
+  },
+  {
+    "verb": "entregar",
+    "perc": "0,0007064284296",
+    "count": "10,6821023",
+    "translation": "livrer"
+  },
+  {
+    "verb": "asomar",
+    "perc": "0,0006980513034",
+    "count": "10,55542942",
+    "translation": "montrer"
+  },
+  {
+    "verb": "entrabar",
+    "perc": "0,0006980513034",
+    "count": "10,55542942",
+    "translation": "confier"
+  },
+  {
+    "verb": "partir",
+    "perc": "0,0006896072931",
+    "count": "10,42774517",
+    "translation": "partir"
+  },
+  {
+    "verb": "romper",
+    "perc": "0,0006896072931",
+    "count": "10,42774517",
+    "translation": "casser"
+  },
+  {
+    "verb": "interesar",
+    "perc": "0,0006896072931",
+    "count": "10,42774517",
+    "translation": "intéresser"
+  },
+  {
+    "verb": "arrastrar",
+    "perc": "0,0006810944828",
+    "count": "10,29902058",
+    "translation": "traîner"
+  },
+  {
+    "verb": "girar",
+    "perc": "0,0006810944828",
+    "count": "10,29902058",
+    "translation": "rotation"
+  },
+  {
+    "verb": "recorrer",
+    "perc": "0,0006725108607",
+    "count": "10,16922523",
+    "translation": "parcourir"
+  },
+  {
+    "verb": "resistir",
+    "perc": "0,0006725108607",
+    "count": "10,16922523",
+    "translation": "résister"
+  },
+  {
+    "verb": "formar",
+    "perc": "0,000663854312",
+    "count": "10,03832713",
+    "translation": "former"
+  },
+  {
+    "verb": "suceder",
+    "perc": "0,000663854312",
+    "count": "10,03832713",
+    "translation": "arriver"
+  },
+  {
+    "verb": "impedir",
+    "perc": "0,000655122611",
+    "count": "9,906292631",
+    "translation": "prévenir"
+  },
+  {
+    "verb": "presentar",
+    "perc": "0,000646313413",
+    "count": "9,773086279",
+    "translation": "présenter"
+  },
+  {
+    "verb": "salar",
+    "perc": "0,000646313413",
+    "count": "9,773086279",
+    "translation": "au sel"
+  },
+  {
+    "verb": "arreglar",
+    "perc": "0,000646313413",
+    "count": "9,773086279",
+    "translation": "organiser"
+  },
+  {
+    "verb": "enterar",
+    "perc": "0,000646313413",
+    "count": "9,773086279",
+    "translation": "découvrir"
+  },
+  {
+    "verb": "confundir",
+    "perc": "0,0006374242447",
+    "count": "9,638670674",
+    "translation": "embrouiller"
+  },
+  {
+    "verb": "parar",
+    "perc": "0,0006374242447",
+    "count": "9,638670674",
+    "translation": "décrochage"
+  },
+  {
+    "verb": "molestar",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "ennuyer"
+  },
+  {
+    "verb": "luchar",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "lutte"
+  },
+  {
+    "verb": "saludar",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "saluer"
+  },
+  {
+    "verb": "agregar",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "ajouter"
+  },
+  {
+    "verb": "percibir",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "percevoir"
+  },
+  {
+    "verb": "apoyar",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "appuyer"
+  },
+  {
+    "verb": "pretender",
+    "perc": "0,0006284524946",
+    "count": "9,503006325",
+    "translation": "prétendre"
+  },
+  {
+    "verb": "ocupar",
+    "perc": "0,0006193954009",
+    "count": "9,366051473",
+    "translation": "occuper"
+  },
+  {
+    "verb": "acariciar",
+    "perc": "0,0006193954009",
+    "count": "9,366051473",
+    "translation": "accident vasculaire cérébral"
+  },
+  {
+    "verb": "intentar",
+    "perc": "0,0006102500399",
+    "count": "9,227761905",
+    "translation": "tentative"
+  },
+  {
+    "verb": "durar",
+    "perc": "0,0006102500399",
+    "count": "9,227761905",
+    "translation": "portée"
+  },
+  {
+    "verb": "soportar",
+    "perc": "0,0006102500399",
+    "count": "9,227761905",
+    "translation": "ours"
+  },
+  {
+    "verb": "fijar",
+    "perc": "0,0006102500399",
+    "count": "9,227761905",
+    "translation": "épingler"
+  },
+  {
+    "verb": "evitar",
+    "perc": "0,0006102500399",
+    "count": "9,227761905",
+    "translation": "éviter"
+  },
+  {
+    "verb": "sorprender",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "de surprendre"
+  },
+  {
+    "verb": "examinar",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "examiner"
+  },
+  {
+    "verb": "procurar",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "procurer"
+  },
+  {
+    "verb": "pelear",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "se battre"
+  },
+  {
+    "verb": "cubrir",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "couverture"
+  },
+  {
+    "verb": "reir",
+    "perc": "0,0006010133114",
+    "count": "9,088090745",
+    "translation": "rire"
+  },
+  {
+    "verb": "tardar",
+    "perc": "0,0005916819238",
+    "count": "8,946988218",
+    "translation": "retard"
+  },
+  {
+    "verb": "prometer",
+    "perc": "0,0005916819238",
+    "count": "8,946988218",
+    "translation": "gage"
+  },
+  {
+    "verb": "observar",
+    "perc": "0,0005916819238",
+    "count": "8,946988218",
+    "translation": "avis"
+  },
+  {
+    "verb": "murmurar",
+    "perc": "0,0005916819238",
+    "count": "8,946988218",
+    "translation": "murmure"
+  },
+  {
+    "verb": "encerrar",
+    "perc": "0,0005916819238",
+    "count": "8,946988218",
+    "translation": "joindre"
+  },
+  {
+    "verb": "instalar",
+    "perc": "0,0005822523766",
+    "count": "8,804401392",
+    "translation": "Installer"
+  },
+  {
+    "verb": "sufrir",
+    "perc": "0,0005822523766",
+    "count": "8,804401392",
+    "translation": "souffrir"
+  },
+  {
+    "verb": "separar",
+    "perc": "0,0005822523766",
+    "count": "8,804401392",
+    "translation": "démonter"
+  },
+  {
+    "verb": "temer",
+    "perc": "0,0005822523766",
+    "count": "8,804401392",
+    "translation": "craindre"
+  },
+  {
+    "verb": "concebir",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "concevoir"
+  },
+  {
+    "verb": "enseñar",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "enseigner"
+  },
+  {
+    "verb": "dirigir",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "plomb"
+  },
+  {
+    "verb": "podar",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "prune"
+  },
+  {
+    "verb": "viajar",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "Voyager"
+  },
+  {
+    "verb": "sobrar",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "Sous-produit"
+  },
+  {
+    "verb": "resbalar",
+    "perc": "0,0005727209412",
+    "count": "8,660273885",
+    "translation": "glisser"
+  },
+  {
+    "verb": "exclamar",
+    "perc": "0,000563083639",
+    "count": "8,514545537",
+    "translation": "exclamer"
+  },
+  {
+    "verb": "preocupar",
+    "perc": "0,000563083639",
+    "count": "8,514545537",
+    "translation": "inquiétude"
+  },
+  {
+    "verb": "salvar",
+    "perc": "0,000563083639",
+    "count": "8,514545537",
+    "translation": "sauvegarder"
+  },
+  {
+    "verb": "mezclar",
+    "perc": "0,000563083639",
+    "count": "8,514545537",
+    "translation": "se mélanger"
+  },
+  {
+    "verb": "inventar",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "inventer"
+  },
+  {
+    "verb": "aprovechar",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "profiter"
+  },
+  {
+    "verb": "señalar",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "indiquer"
+  },
+  {
+    "verb": "invitar",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "inviter"
+  },
+  {
+    "verb": "rodear",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "entourer"
+  },
+  {
+    "verb": "césar",
+    "perc": "0,0005533362175",
+    "count": "8,367152044",
+    "translation": "cesser"
+  },
+  {
+    "verb": "vender",
+    "perc": "0,0005434741223",
+    "count": "8,218024538",
+    "translation": "vendre"
+  },
+  {
+    "verb": "darse",
+    "perc": "0,0005434741223",
+    "count": "8,218024538",
+    "translation": "donner"
+  },
+  {
+    "verb": "sacudir",
+    "perc": "0,0005434741223",
+    "count": "8,218024538",
+    "translation": "secouer"
+  },
+  {
+    "verb": "compartir",
+    "perc": "0,0005434741223",
+    "count": "8,218024538",
+    "translation": "Partager"
+  },
+  {
+    "verb": "jurar",
+    "perc": "0,0005434741223",
+    "count": "8,218024538",
+    "translation": "jurer"
+  },
+  {
+    "verb": "conservar",
+    "perc": "0,0005334924658",
+    "count": "8,067089113",
+    "translation": "garder"
+  },
+  {
+    "verb": "cortar",
+    "perc": "0,0005334924658",
+    "count": "8,067089113",
+    "translation": "couper"
+  },
+  {
+    "verb": "arrancar",
+    "perc": "0,0005334924658",
+    "count": "8,067089113",
+    "translation": "démarrer"
+  },
+  {
+    "verb": "firmar",
+    "perc": "0,0005334924658",
+    "count": "8,067089113",
+    "translation": "signer"
+  },
+  {
+    "verb": "comentar",
+    "perc": "0,0005233859922",
+    "count": "7,914266292",
+    "translation": "commentaire"
+  },
+  {
+    "verb": "sostener",
+    "perc": "0,0005233859922",
+    "count": "7,914266292",
+    "translation": "prise"
+  },
+  {
+    "verb": "callar",
+    "perc": "0,0005233859922",
+    "count": "7,914266292",
+    "translation": "à silence"
+  },
+  {
+    "verb": "flotar",
+    "perc": "0,0005131490359",
+    "count": "7,759470407",
+    "translation": "flotter"
+  },
+  {
+    "verb": "constar",
+    "perc": "0,0005131490359",
+    "count": "7,759470407",
+    "translation": "enregistrer"
+  },
+  {
+    "verb": "intervenir",
+    "perc": "0,0005131490359",
+    "count": "7,759470407",
+    "translation": "intervenir"
+  },
+  {
+    "verb": "referir",
+    "perc": "0,0005131490359",
+    "count": "7,759470407",
+    "translation": "référer"
+  },
+  {
+    "verb": "brillar",
+    "perc": "0,0005131490359",
+    "count": "7,759470407",
+    "translation": "briller"
+  },
+  {
+    "verb": "cuidar",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "garder"
+  },
+  {
+    "verb": "sonreir",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "sourire"
+  },
+  {
+    "verb": "acompañar",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "accompagner"
+  },
+  {
+    "verb": "enterrar",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "enterrer"
+  },
+  {
+    "verb": "transcurrir",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "s'écouler"
+  },
+  {
+    "verb": "disparar",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "tirer"
+  },
+  {
+    "verb": "representar",
+    "perc": "0,0005027754756",
+    "count": "7,602608894",
+    "translation": "représenter"
+  },
+  {
+    "verb": "emprender",
+    "perc": "0,0004922586799",
+    "count": "7,443581479",
+    "translation": "entreprendre"
+  },
+  {
+    "verb": "descansar",
+    "perc": "0,0004922586799",
+    "count": "7,443581479",
+    "translation": "repos"
+  },
+  {
+    "verb": "estudiar",
+    "perc": "0,0004922586799",
+    "count": "7,443581479",
+    "translation": "étude"
+  },
+  {
+    "verb": "asegurar",
+    "perc": "0,0004922586799",
+    "count": "7,443581479",
+    "translation": "assurer"
+  },
+  {
+    "verb": "ceder",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "donner"
+  },
+  {
+    "verb": "hundir",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "couler"
+  },
+  {
+    "verb": "atrever",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "oser"
+  },
+  {
+    "verb": "vengar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "venger"
+  },
+  {
+    "verb": "casar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "marier"
+  },
+  {
+    "verb": "pintar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "peindre"
+  },
+  {
+    "verb": "afirmar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "dire"
+  },
+  {
+    "verb": "admirar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "admirer"
+  },
+  {
+    "verb": "retroceder",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "dos"
+  },
+  {
+    "verb": "atardecer",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "coucher de soleil"
+  },
+  {
+    "verb": "tender",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "tendre"
+  },
+  {
+    "verb": "jaguar",
+    "perc": "0,0004815914455",
+    "count": "7,282279237",
+    "translation": "Jaguar"
+  },
+  {
+    "verb": "carecer",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "manque"
+  },
+  {
+    "verb": "adquirir",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "acquérir"
+  },
+  {
+    "verb": "comprobar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "découvrir"
+  },
+  {
+    "verb": "adivinar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "deviner"
+  },
+  {
+    "verb": "prestar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "prêter"
+  },
+  {
+    "verb": "consistir",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "consister"
+  },
+  {
+    "verb": "apuntar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "but"
+  },
+  {
+    "verb": "aguantar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "endurer"
+  },
+  {
+    "verb": "mencionar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "mention"
+  },
+  {
+    "verb": "circular",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "circulaire"
+  },
+  {
+    "verb": "juntar",
+    "perc": "0,000470765924",
+    "count": "7,118583492",
+    "translation": "joindre"
+  },
+  {
+    "verb": "imponer",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "imposer"
+  },
+  {
+    "verb": "bailar",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "danser"
+  },
+  {
+    "verb": "anochecer",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "devenir nuit"
+  },
+  {
+    "verb": "vigilar",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "faire attention"
+  },
+  {
+    "verb": "declarar",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "déclarer"
+  },
+  {
+    "verb": "notar",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "noter"
+  },
+  {
+    "verb": "acomodar",
+    "perc": "0,0004597735374",
+    "count": "6,952364532",
+    "translation": "accommoder"
+  },
+  {
+    "verb": "tapar",
+    "perc": "0,0004486048777",
+    "count": "6,783480099",
+    "translation": "couverture"
+  },
+  {
+    "verb": "interpretar",
+    "perc": "0,0004486048777",
+    "count": "6,783480099",
+    "translation": "interpréter"
+  },
+  {
+    "verb": "empujar",
+    "perc": "0,0004486048777",
+    "count": "6,783480099",
+    "translation": "pousser"
+  },
+  {
+    "verb": "regalar",
+    "perc": "0,0004486048777",
+    "count": "6,783480099",
+    "translation": "donner un cadeau"
+  },
+  {
+    "verb": "enfrentar",
+    "perc": "0,0004486048777",
+    "count": "6,783480099",
+    "translation": "confronter"
+  },
+  {
+    "verb": "experimentar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "à découvrir"
+  },
+  {
+    "verb": "confirmar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "confirmer"
+  },
+  {
+    "verb": "amar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "amour"
+  },
+  {
+    "verb": "responder",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "répondre"
+  },
+  {
+    "verb": "corresponder",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "correspondre"
+  },
+  {
+    "verb": "aclarar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "clarifier"
+  },
+  {
+    "verb": "unir",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "lier"
+  },
+  {
+    "verb": "figurar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "chiffre"
+  },
+  {
+    "verb": "alzar",
+    "perc": "0,0004372495887",
+    "count": "6,611773591",
+    "translation": "augmenter"
+  },
+  {
+    "verb": "suscitar",
+    "perc": "0,0004256962242",
+    "count": "6,437071928",
+    "translation": "augmenter"
+  },
+  {
+    "verb": "fusilar",
+    "perc": "0,0004256962242",
+    "count": "6,437071928",
+    "translation": "tirer"
+  },
+  {
+    "verb": "dibujar",
+    "perc": "0,0004256962242",
+    "count": "6,437071928",
+    "translation": "dessiner"
+  },
+  {
+    "verb": "moverse",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "se déplacer"
+  },
+  {
+    "verb": "reunir",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "rencontrer"
+  },
+  {
+    "verb": "clavar",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "clouer"
+  },
+  {
+    "verb": "participar",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "participer"
+  },
+  {
+    "verb": "gozar",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "apprécier"
+  },
+  {
+    "verb": "identificar",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "identifier"
+  },
+  {
+    "verb": "aumentar",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "augmenter"
+  },
+  {
+    "verb": "atribuir",
+    "perc": "0,0004139320779",
+    "count": "6,259182974",
+    "translation": "attribut"
+  },
+  {
+    "verb": "interrumpir",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "interrompre"
+  },
+  {
+    "verb": "reventar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "éclatement"
+  },
+  {
+    "verb": "asistir",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "assister"
+  },
+  {
+    "verb": "pasear",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "se promener"
+  },
+  {
+    "verb": "suspirar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "Soupirer"
+  },
+  {
+    "verb": "optar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "opter pour"
+  },
+  {
+    "verb": "quemar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "brûler"
+  },
+  {
+    "verb": "discutir",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "argumenter"
+  },
+  {
+    "verb": "enderezar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "redresser"
+  },
+  {
+    "verb": "alejar",
+    "perc": "0,0004019429777",
+    "count": "6,07789243",
+    "translation": "Parer"
+  },
+  {
+    "verb": "asombrar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "étonner"
+  },
+  {
+    "verb": "apartar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "mettre de côté"
+  },
+  {
+    "verb": "descifrar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "déchiffrer"
+  },
+  {
+    "verb": "ocultar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "cacher"
+  },
+  {
+    "verb": "sudar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "transpirer"
+  },
+  {
+    "verb": "funcionar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "fonction"
+  },
+  {
+    "verb": "recuperar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "récupérer"
+  },
+  {
+    "verb": "evocar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "évoquer"
+  },
+  {
+    "verb": "desprender",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "détacher"
+  },
+  {
+    "verb": "justificar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "justifier"
+  },
+  {
+    "verb": "juzgar",
+    "perc": "0,0003897130337",
+    "count": "5,892960018",
+    "translation": "juge"
+  },
+  {
+    "verb": "precipitar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "précipité"
+  },
+  {
+    "verb": "prender",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "allumer"
+  },
+  {
+    "verb": "montar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "monter"
+  },
+  {
+    "verb": "transmitir",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "transmettre"
+  },
+  {
+    "verb": "retirar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "retirer"
+  },
+  {
+    "verb": "envolver",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "envelopper"
+  },
+  {
+    "verb": "determinar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "déterminer"
+  },
+  {
+    "verb": "estirar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "extensible"
+  },
+  {
+    "verb": "apresurar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "dépêchez-vous"
+  },
+  {
+    "verb": "alimentar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "alimentation"
+  },
+  {
+    "verb": "tejer",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "tisser"
+  },
+  {
+    "verb": "invadir",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "empiéter"
+  },
+  {
+    "verb": "aguardar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "attendez"
+  },
+  {
+    "verb": "hallar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "trouver"
+  },
+  {
+    "verb": "sujetar",
+    "perc": "0,0003772243269",
+    "count": "5,704114782",
+    "translation": "prise"
+  },
+  {
+    "verb": "estremecer",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "secouer"
+  },
+  {
+    "verb": "transformar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "transformer"
+  },
+  {
+    "verb": "asustar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "effrayer"
+  },
+  {
+    "verb": "atormentar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "tourmenter"
+  },
+  {
+    "verb": "contemplar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "contempler"
+  },
+  {
+    "verb": "conversar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "discuter"
+  },
+  {
+    "verb": "concluir",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "conclure"
+  },
+  {
+    "verb": "aproximar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "approximatif"
+  },
+  {
+    "verb": "suplicar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "supplier"
+  },
+  {
+    "verb": "lavar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "laver"
+  },
+  {
+    "verb": "coincidir",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "coïncider"
+  },
+  {
+    "verb": "proclamar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "proclamer"
+  },
+  {
+    "verb": "informar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "informer"
+  },
+  {
+    "verb": "seriar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "sérié"
+  },
+  {
+    "verb": "vislumbrar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "aperçu"
+  },
+  {
+    "verb": "deducir",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "déduire"
+  },
+  {
+    "verb": "atar",
+    "perc": "0,0003644565218",
+    "count": "5,511049222",
+    "translation": "cravate"
+  },
+  {
+    "verb": "empeñar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "pion"
+  },
+  {
+    "verb": "cesar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "cesser"
+  },
+  {
+    "verb": "prolongar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "prolonger"
+  },
+  {
+    "verb": "recobrar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "récupérer"
+  },
+  {
+    "verb": "describir",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "décrire"
+  },
+  {
+    "verb": "nombrar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "appeler"
+  },
+  {
+    "verb": "cansar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "se lasser"
+  },
+  {
+    "verb": "esparar",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "Étoile"
+  },
+  {
+    "verb": "distraer",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "distraire"
+  },
+  {
+    "verb": "calcular",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "calculer"
+  },
+  {
+    "verb": "retorcer",
+    "perc": "0,0003513863766",
+    "count": "5,313411893",
+    "translation": "torsion"
+  },
+  {
+    "verb": "penetrar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "pénétrer"
+  },
+  {
+    "verb": "demorar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "retard"
+  },
+  {
+    "verb": "bañar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "bain"
+  },
+  {
+    "verb": "curar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "guérir"
+  },
+  {
+    "verb": "manejar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "conduire"
+  },
+  {
+    "verb": "estallar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "éclatement"
+  },
+  {
+    "verb": "esconder",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "cacher"
+  },
+  {
+    "verb": "elevar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "augmenter"
+  },
+  {
+    "verb": "denunciar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "rapport"
+  },
+  {
+    "verb": "proceder",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "procéder"
+  },
+  {
+    "verb": "encargar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "passer une commande"
+  },
+  {
+    "verb": "haberse",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "avoir"
+  },
+  {
+    "verb": "limitar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "limite"
+  },
+  {
+    "verb": "comparar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "comparer"
+  },
+  {
+    "verb": "engañar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "tricher"
+  },
+  {
+    "verb": "enfermar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "je vais"
+  },
+  {
+    "verb": "avisar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "alerter"
+  },
+  {
+    "verb": "insinuar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "insinuer"
+  },
+  {
+    "verb": "abundar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "abonder"
+  },
+  {
+    "verb": "internar",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "interne"
+  },
+  {
+    "verb": "arder",
+    "perc": "0,0003379871168",
+    "count": "5,110797931",
+    "translation": "brûler"
+  },
+  {
+    "verb": "plantar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "usine"
+  },
+  {
+    "verb": "sobrevivir",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "survivre"
+  },
+  {
+    "verb": "inspirar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "inspirer"
+  },
+  {
+    "verb": "disimular",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "cacher"
+  },
+  {
+    "verb": "espantar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "effrayer"
+  },
+  {
+    "verb": "celebrar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "célébrer"
+  },
+  {
+    "verb": "iluminar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "briller"
+  },
+  {
+    "verb": "amarrar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "ficeler"
+  },
+  {
+    "verb": "mudar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "se déplacer"
+  },
+  {
+    "verb": "reaccionar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "réagir"
+  },
+  {
+    "verb": "recurrir",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "appel"
+  },
+  {
+    "verb": "dudar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "mec"
+  },
+  {
+    "verb": "pesar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "peser"
+  },
+  {
+    "verb": "eludir",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "éviter"
+  },
+  {
+    "verb": "consultar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "Consulter"
+  },
+  {
+    "verb": "vendar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "panser"
+  },
+  {
+    "verb": "asumir",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "supposer"
+  },
+  {
+    "verb": "dominar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "dominer"
+  },
+  {
+    "verb": "reclamar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "réclamer"
+  },
+  {
+    "verb": "sumar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "Ajouter"
+  },
+  {
+    "verb": "agachar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "canard"
+  },
+  {
+    "verb": "encantar",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "amour"
+  },
+  {
+    "verb": "traveler",
+    "perc": "0,0003242276226",
+    "count": "4,902736762",
+    "translation": "Voyageur"
+  },
+  {
+    "verb": "explorar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "explorer"
+  },
+  {
+    "verb": "remontar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "submerger"
+  },
+  {
+    "verb": "derribar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "abattre"
+  },
+  {
+    "verb": "doblar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "pli"
+  },
+  {
+    "verb": "registrar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "enregistrer"
+  },
+  {
+    "verb": "pronunciar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "prononcer"
+  },
+  {
+    "verb": "sucumbir",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "succomber"
+  },
+  {
+    "verb": "marchar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "marcher"
+  },
+  {
+    "verb": "pisar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "étape"
+  },
+  {
+    "verb": "encontrarse",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "rencontrer"
+  },
+  {
+    "verb": "ahogar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "noyer"
+  },
+  {
+    "verb": "explotar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "souffler"
+  },
+  {
+    "verb": "desbordar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "débordement"
+  },
+  {
+    "verb": "concentrar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "se concentrer"
+  },
+  {
+    "verb": "restaurar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "restaurer"
+  },
+  {
+    "verb": "apreciar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "apprécier"
+  },
+  {
+    "verb": "vacilar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "hésiter"
+  },
+  {
+    "verb": "consolar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "confort"
+  },
+  {
+    "verb": "respetar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "respect"
+  },
+  {
+    "verb": "vibrar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "vibrer"
+  },
+  {
+    "verb": "revisar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "revoir"
+  },
+  {
+    "verb": "aplaudir",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "applaudir"
+  },
+  {
+    "verb": "aplastar",
+    "perc": "0,0003100713559",
+    "count": "4,688675885",
+    "translation": "fracasser"
+  },
+  {
+    "verb": "fundar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "trouvé"
+  },
+  {
+    "verb": "conformar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "forme"
+  },
+  {
+    "verb": "sembrar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "semer"
+  },
+  {
+    "verb": "recitar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "réciter"
+  },
+  {
+    "verb": "violar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "râpé"
+  },
+  {
+    "verb": "besar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "baiser"
+  },
+  {
+    "verb": "alegrar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "réjouir"
+  },
+  {
+    "verb": "coser",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "coudre"
+  },
+  {
+    "verb": "rendir",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "rendement"
+  },
+  {
+    "verb": "acostumbrar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "habituer"
+  },
+  {
+    "verb": "ejecutar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "exécuter"
+  },
+  {
+    "verb": "rescatar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "sauver"
+  },
+  {
+    "verb": "burlar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "se débarrasser de"
+  },
+  {
+    "verb": "descargar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "décharge"
+  },
+  {
+    "verb": "morder",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "mordre"
+  },
+  {
+    "verb": "fallar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "échouer"
+  },
+  {
+    "verb": "definir",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "définir"
+  },
+  {
+    "verb": "silbar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "siffler"
+  },
+  {
+    "verb": "promover",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "promouvoir"
+  },
+  {
+    "verb": "cobrar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "recueillir"
+  },
+  {
+    "verb": "depender",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "dépendre"
+  },
+  {
+    "verb": "frotar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "frotter"
+  },
+  {
+    "verb": "limpiar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "faire le ménage"
+  },
+  {
+    "verb": "captar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "capturer"
+  },
+  {
+    "verb": "resonar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "résonner"
+  },
+  {
+    "verb": "alumbrar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "lumière"
+  },
+  {
+    "verb": "completar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "compléter"
+  },
+  {
+    "verb": "inclinar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "inclinaison"
+  },
+  {
+    "verb": "largar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "libérer"
+  },
+  {
+    "verb": "escalar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "grimper"
+  },
+  {
+    "verb": "imitar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "se moquer"
+  },
+  {
+    "verb": "negociar",
+    "perc": "0,0002954749178",
+    "count": "4,467959053",
+    "translation": "négocier"
+  },
+  {
+    "verb": "exhalar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "exhaler"
+  },
+  {
+    "verb": "despedazar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "larme"
+  },
+  {
+    "verb": "expresar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "exprimer"
+  },
+  {
+    "verb": "morirse",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "mourir"
+  },
+  {
+    "verb": "desbaratar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "contrecarrer"
+  },
+  {
+    "verb": "perdonar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "pardonner"
+  },
+  {
+    "verb": "repartir",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "distribuer"
+  },
+  {
+    "verb": "restablecer",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "restaurer"
+  },
+  {
+    "verb": "reprochar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "reproche"
+  },
+  {
+    "verb": "superar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "surmonter"
+  },
+  {
+    "verb": "complacer",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "s'il te plaît"
+  },
+  {
+    "verb": "causar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "cause"
+  },
+  {
+    "verb": "agotar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "échappement"
+  },
+  {
+    "verb": "borrar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "supprimer"
+  },
+  {
+    "verb": "afeitar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "se raser"
+  },
+  {
+    "verb": "dictar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "dicter"
+  },
+  {
+    "verb": "festejar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "célébrer"
+  },
+  {
+    "verb": "acertar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "frapper"
+  },
+  {
+    "verb": "precisar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "spécifier"
+  },
+  {
+    "verb": "espiar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "espionner"
+  },
+  {
+    "verb": "portar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "porter"
+  },
+  {
+    "verb": "devorar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "dévorer"
+  },
+  {
+    "verb": "cebar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "prime"
+  },
+  {
+    "verb": "extraer",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "Extraire"
+  },
+  {
+    "verb": "calmar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "Calmer"
+  },
+  {
+    "verb": "interrogar",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "question"
+  },
+  {
+    "verb": "ascender",
+    "perc": "0,000280386066",
+    "count": "4,239796296",
+    "translation": "monter"
+  },
+  {
+    "verb": "perturbar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "déranger"
+  },
+  {
+    "verb": "exaltar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "exalter"
+  },
+  {
+    "verb": "chorrear",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "goutte"
+  },
+  {
+    "verb": "hacerse",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "obtenir"
+  },
+  {
+    "verb": "velar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "s'assurer"
+  },
+  {
+    "verb": "arrojar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "lancer"
+  },
+  {
+    "verb": "lamentar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "regretter"
+  },
+  {
+    "verb": "alarmar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "alarme"
+  },
+  {
+    "verb": "verse",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "se voir"
+  },
+  {
+    "verb": "extrañar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "manquer"
+  },
+  {
+    "verb": "impresionar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "impressionner"
+  },
+  {
+    "verb": "acudir",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "aller"
+  },
+  {
+    "verb": "irrumpir",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "éclatement"
+  },
+  {
+    "verb": "cometer",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "commettre"
+  },
+  {
+    "verb": "liquidar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "liquider"
+  },
+  {
+    "verb": "protestar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "protester"
+  },
+  {
+    "verb": "rodar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "rouler"
+  },
+  {
+    "verb": "preceder",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "précéder"
+  },
+  {
+    "verb": "escampar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "Escampo"
+  },
+  {
+    "verb": "emitir",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "émettre"
+  },
+  {
+    "verb": "cenar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "dîner"
+  },
+  {
+    "verb": "reconstruir",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "reconstruire"
+  },
+  {
+    "verb": "aspirar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "Aspirer"
+  },
+  {
+    "verb": "aconsejar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "conseiller"
+  },
+  {
+    "verb": "plantear",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "pose"
+  },
+  {
+    "verb": "aflojar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "se détendre"
+  },
+  {
+    "verb": "ensayar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "essayer"
+  },
+  {
+    "verb": "trepar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "grimper"
+  },
+  {
+    "verb": "abarcar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "englober"
+  },
+  {
+    "verb": "filtrar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "filtre"
+  },
+  {
+    "verb": "rondar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "hanter"
+  },
+  {
+    "verb": "apurar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "dépêchez-vous"
+  },
+  {
+    "verb": "charlar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "chat"
+  },
+  {
+    "verb": "vomitar",
+    "perc": "0,0002647409206",
+    "count": "4,003221667",
+    "translation": "vomir"
+  },
+  {
+    "verb": "controlar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "vérifier"
+  },
+  {
+    "verb": "refugiarse",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "prend refuge"
+  },
+  {
+    "verb": "divulgar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "divulguer"
+  },
+  {
+    "verb": "alternar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "alterner"
+  },
+  {
+    "verb": "datar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "date"
+  },
+  {
+    "verb": "disipar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "dissiper"
+  },
+  {
+    "verb": "impregnar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "imprégner"
+  },
+  {
+    "verb": "orinar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "pipi"
+  },
+  {
+    "verb": "reunirse",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "se rencontrer"
+  },
+  {
+    "verb": "desatar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "sans cravate"
+  },
+  {
+    "verb": "liberar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "libérer"
+  },
+  {
+    "verb": "condenar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "condamner"
+  },
+  {
+    "verb": "eliminar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "éliminer"
+  },
+  {
+    "verb": "animar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "encourager"
+  },
+  {
+    "verb": "prevenir",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "prévenir"
+  },
+  {
+    "verb": "exasperar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "exaspérer"
+  },
+  {
+    "verb": "proyectar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "projeter"
+  },
+  {
+    "verb": "modificar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "Modifier"
+  },
+  {
+    "verb": "analizar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "analyser"
+  },
+  {
+    "verb": "persistir",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "persister"
+  },
+  {
+    "verb": "nadar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "nager"
+  },
+  {
+    "verb": "robar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "voler"
+  },
+  {
+    "verb": "deslizar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "glisser"
+  },
+  {
+    "verb": "soplar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "souffler"
+  },
+  {
+    "verb": "acechar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "tige"
+  },
+  {
+    "verb": "chillar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "crier"
+  },
+  {
+    "verb": "palpar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "sentir"
+  },
+  {
+    "verb": "desembocar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "plomb"
+  },
+  {
+    "verb": "encaminar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "itinéraire"
+  },
+  {
+    "verb": "arrimar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "Arrimar"
+  },
+  {
+    "verb": "agitar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "secouer"
+  },
+  {
+    "verb": "ajustar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "ajuster"
+  },
+  {
+    "verb": "collar",
+    "perc": "0,0002484599087",
+    "count": "3,757031923",
+    "translation": "collier"
+  },
+  {
+    "verb": "perecer",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "périr"
+  },
+  {
+    "verb": "desistir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "cesser"
+  },
+  {
+    "verb": "mentar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "menthe"
+  },
+  {
+    "verb": "presenciar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "témoin"
+  },
+  {
+    "verb": "parir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "donner naissance"
+  },
+  {
+    "verb": "añorar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "aspirer"
+  },
+  {
+    "verb": "acampar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "camper"
+  },
+  {
+    "verb": "voltear",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "retourner"
+  },
+  {
+    "verb": "disfrutar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "apprécier"
+  },
+  {
+    "verb": "incorporar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "incorporer"
+  },
+  {
+    "verb": "agravar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "aggraver"
+  },
+  {
+    "verb": "elaborar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "élaborer"
+  },
+  {
+    "verb": "alquilar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "louer"
+  },
+  {
+    "verb": "revivir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "Pour raviver"
+  },
+  {
+    "verb": "envenenar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "poison"
+  },
+  {
+    "verb": "acentuar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "accentuer"
+  },
+  {
+    "verb": "absorber",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "absorber"
+  },
+  {
+    "verb": "cagar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "merde"
+  },
+  {
+    "verb": "detestar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "détester"
+  },
+  {
+    "verb": "lastimar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "blesser"
+  },
+  {
+    "verb": "designar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "nommer"
+  },
+  {
+    "verb": "reanudar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "CV"
+  },
+  {
+    "verb": "localizar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "pour localiser"
+  },
+  {
+    "verb": "convencerse",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "vous convaincre"
+  },
+  {
+    "verb": "manifestar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "manifeste"
+  },
+  {
+    "verb": "derivar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "dériver"
+  },
+  {
+    "verb": "destacar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "ressortir"
+  },
+  {
+    "verb": "estropear",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "gâcher"
+  },
+  {
+    "verb": "podrir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "Puture"
+  },
+  {
+    "verb": "acceder",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "accéder"
+  },
+  {
+    "verb": "empapar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "tremper"
+  },
+  {
+    "verb": "atrapar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "attraper"
+  },
+  {
+    "verb": "escandalizar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "scandaliser"
+  },
+  {
+    "verb": "despejar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "clair"
+  },
+  {
+    "verb": "anotar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "annoter"
+  },
+  {
+    "verb": "planear",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "planifier"
+  },
+  {
+    "verb": "despreciar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "mépriser"
+  },
+  {
+    "verb": "inquirir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "renseigner"
+  },
+  {
+    "verb": "obrar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "acte"
+  },
+  {
+    "verb": "enojar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "colère"
+  },
+  {
+    "verb": "incurrir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "encourir"
+  },
+  {
+    "verb": "resumir",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "CV"
+  },
+  {
+    "verb": "adorar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "adorer"
+  },
+  {
+    "verb": "aterrizar",
+    "perc": "0,000231441667",
+    "count": "3,49969432",
+    "translation": "atterrir"
+  },
+  {
+    "verb": "ensanchar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "élargir"
+  },
+  {
+    "verb": "desenterrar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "dénicher"
+  },
+  {
+    "verb": "exhibir",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "exposer"
+  },
+  {
+    "verb": "asar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "rôti"
+  },
+  {
+    "verb": "destrozar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "briser"
+  },
+  {
+    "verb": "expulsar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "expulser"
+  },
+  {
+    "verb": "entusiasmar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "enthousiasmer"
+  },
+  {
+    "verb": "desconocer",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "ignorer"
+  },
+  {
+    "verb": "consolidar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "consolider"
+  },
+  {
+    "verb": "someter",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "soumettre"
+  },
+  {
+    "verb": "reaparecer",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "réapparaître"
+  },
+  {
+    "verb": "enredar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "enchevêtrement"
+  },
+  {
+    "verb": "mejorar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "améliorer"
+  },
+  {
+    "verb": "destinar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "être affecté"
+  },
+  {
+    "verb": "transportar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "transport"
+  },
+  {
+    "verb": "posar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "pose"
+  },
+  {
+    "verb": "descomponer",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "panne"
+  },
+  {
+    "verb": "disolver",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "dissoudre"
+  },
+  {
+    "verb": "vagar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "errer"
+  },
+  {
+    "verb": "suspender",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "Licencier"
+  },
+  {
+    "verb": "acusar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "accuser"
+  },
+  {
+    "verb": "acumular",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "accumuler"
+  },
+  {
+    "verb": "conmover",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "se déplacer"
+  },
+  {
+    "verb": "asimilar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "assimiler"
+  },
+  {
+    "verb": "esforzar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "effort"
+  },
+  {
+    "verb": "impulsar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "booster"
+  },
+  {
+    "verb": "intercambiar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "échanger"
+  },
+  {
+    "verb": "odiar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "détester"
+  },
+  {
+    "verb": "combinar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "combiner"
+  },
+  {
+    "verb": "alterar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "modifier"
+  },
+  {
+    "verb": "conceder",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "accorder"
+  },
+  {
+    "verb": "derrumbar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "renverser"
+  },
+  {
+    "verb": "brindar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "griller"
+  },
+  {
+    "verb": "reproducir",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "jouer"
+  },
+  {
+    "verb": "estimar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "estimation"
+  },
+  {
+    "verb": "multiplicar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "multiplier"
+  },
+  {
+    "verb": "ocuparse",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "occuper"
+  },
+  {
+    "verb": "cocinar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "cuisiner"
+  },
+  {
+    "verb": "transladar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "Transider"
+  },
+  {
+    "verb": "peinar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "peigne"
+  },
+  {
+    "verb": "salpicar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "éclabousser"
+  },
+  {
+    "verb": "inquietar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "déranger"
+  },
+  {
+    "verb": "reparar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "réparer"
+  },
+  {
+    "verb": "reponer",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "remplir"
+  },
+  {
+    "verb": "estrellar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "étoile"
+  },
+  {
+    "verb": "callarse",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "fermez-la"
+  },
+  {
+    "verb": "desviar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "dérouter"
+  },
+  {
+    "verb": "adelantar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "passer"
+  },
+  {
+    "verb": "formular",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "formuler"
+  },
+  {
+    "verb": "sentirse",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "sentir"
+  },
+  {
+    "verb": "integrar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "intégrer"
+  },
+  {
+    "verb": "habitar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "demeurer"
+  },
+  {
+    "verb": "emerger",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "émerger"
+  },
+  {
+    "verb": "exhumar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "exhumer"
+  },
+  {
+    "verb": "combatir",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "lutte"
+  },
+  {
+    "verb": "aventurar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "aventure"
+  },
+  {
+    "verb": "aburrir",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "ennuyer"
+  },
+  {
+    "verb": "irritar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "irriter"
+  },
+  {
+    "verb": "brotar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "pousser"
+  },
+  {
+    "verb": "balancear",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "balançoire"
+  },
+  {
+    "verb": "ingresar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "entrer dans"
+  },
+  {
+    "verb": "inyectar",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "injecter"
+  },
+  {
+    "verb": "relucir",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "briller"
+  },
+  {
+    "verb": "aprehender",
+    "perc": "0,0002135534741",
+    "count": "3,229201941",
+    "translation": "appréhender"
+  },
+  {
+    "verb": "incendiar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "feu"
+  },
+  {
+    "verb": "trabar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "verrouillage"
+  },
+  {
+    "verb": "fundir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "fondre"
+  },
+  {
+    "verb": "prevalecer",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "prévaloir"
+  },
+  {
+    "verb": "humedecer",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "humidifier"
+  },
+  {
+    "verb": "aliviar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "soulager"
+  },
+  {
+    "verb": "bordar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "broder"
+  },
+  {
+    "verb": "felicitar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "féliciter"
+  },
+  {
+    "verb": "mojar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "mouillé"
+  },
+  {
+    "verb": "tomarse",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "prendre"
+  },
+  {
+    "verb": "convertirse",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "devenir"
+  },
+  {
+    "verb": "roncar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "ronfler"
+  },
+  {
+    "verb": "revolver",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "remuer"
+  },
+  {
+    "verb": "deambular",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "errer"
+  },
+  {
+    "verb": "tolerar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "tolérer"
+  },
+  {
+    "verb": "perdurar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "endurer"
+  },
+  {
+    "verb": "estorbar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "entraver"
+  },
+  {
+    "verb": "emplear",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "utiliser"
+  },
+  {
+    "verb": "reprimir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "réprimer"
+  },
+  {
+    "verb": "chupar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "sucer"
+  },
+  {
+    "verb": "operar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "fonctionner"
+  },
+  {
+    "verb": "relatar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "se rapporter"
+  },
+  {
+    "verb": "abanicar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "ventilateur"
+  },
+  {
+    "verb": "aplacar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "apaiser"
+  },
+  {
+    "verb": "preservar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "préserver"
+  },
+  {
+    "verb": "sobrellevar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "endurer"
+  },
+  {
+    "verb": "enrollar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "retrousser"
+  },
+  {
+    "verb": "descalzar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "Pieds nus"
+  },
+  {
+    "verb": "fatigar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "fatigue"
+  },
+  {
+    "verb": "anular",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "Annuler"
+  },
+  {
+    "verb": "infundir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "infuser"
+  },
+  {
+    "verb": "comprometer",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "s'engager"
+  },
+  {
+    "verb": "mediar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "médiat"
+  },
+  {
+    "verb": "clausurar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "fermer"
+  },
+  {
+    "verb": "asignar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "attribuer"
+  },
+  {
+    "verb": "proporcionar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "fournir"
+  },
+  {
+    "verb": "coordinar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "coordonner"
+  },
+  {
+    "verb": "tranquilizar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "rassurer"
+  },
+  {
+    "verb": "entrenar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "entrainer"
+  },
+  {
+    "verb": "dispersar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "disperser"
+  },
+  {
+    "verb": "orientar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "guide"
+  },
+  {
+    "verb": "impartir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "transmettre"
+  },
+  {
+    "verb": "alegar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "plaider"
+  },
+  {
+    "verb": "reiterar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "recommencer"
+  },
+  {
+    "verb": "sofocar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "étouffer"
+  },
+  {
+    "verb": "erizar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "poil"
+  },
+  {
+    "verb": "calificar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "qualifier"
+  },
+  {
+    "verb": "compadecer",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "sympathiser"
+  },
+  {
+    "verb": "coronar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "couronner"
+  },
+  {
+    "verb": "ocasionar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "cause"
+  },
+  {
+    "verb": "deparar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "rendement"
+  },
+  {
+    "verb": "zarpar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "mettre les voiles"
+  },
+  {
+    "verb": "intuir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "sentir"
+  },
+  {
+    "verb": "anhelar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "Désirer"
+  },
+  {
+    "verb": "embarcar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "embarquer"
+  },
+  {
+    "verb": "instar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "d'exhorter"
+  },
+  {
+    "verb": "desafiar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "lancer un défi"
+  },
+  {
+    "verb": "convidar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "inviter"
+  },
+  {
+    "verb": "circundar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "cercle"
+  },
+  {
+    "verb": "arruinar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "gâcher"
+  },
+  {
+    "verb": "maravillar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "merveille"
+  },
+  {
+    "verb": "reemplazar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "remplacer"
+  },
+  {
+    "verb": "diferir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "différer"
+  },
+  {
+    "verb": "rememorar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "rappel"
+  },
+  {
+    "verb": "reinar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "règne"
+  },
+  {
+    "verb": "mear",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "pisse"
+  },
+  {
+    "verb": "tranladar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "Tranladar"
+  },
+  {
+    "verb": "indagar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "renseigner"
+  },
+  {
+    "verb": "omitir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "sauter"
+  },
+  {
+    "verb": "enumerar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "énumérer"
+  },
+  {
+    "verb": "equivaler",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "être équivalent"
+  },
+  {
+    "verb": "entrever",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "aperçu"
+  },
+  {
+    "verb": "razonar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "raisonner"
+  },
+  {
+    "verb": "abolir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "abolir"
+  },
+  {
+    "verb": "conjeturar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "deviner"
+  },
+  {
+    "verb": "aludir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "faire allusion"
+  },
+  {
+    "verb": "librarse",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "débarrasser"
+  },
+  {
+    "verb": "recaer",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "rechute"
+  },
+  {
+    "verb": "arrollar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "submerger"
+  },
+  {
+    "verb": "reírse",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "rire"
+  },
+  {
+    "verb": "desconfiar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "méfiance"
+  },
+  {
+    "verb": "latir",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "battre"
+  },
+  {
+    "verb": "disculpar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "excuse"
+  },
+  {
+    "verb": "vacunar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "vacciner"
+  },
+  {
+    "verb": "cosechar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "récolte"
+  },
+  {
+    "verb": "sangrar",
+    "perc": "0,0001946154208",
+    "count": "2,942834328",
+    "translation": "saigner"
+  },
+  {
+    "verb": "desentrañar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "démêler"
+  },
+  {
+    "verb": "sanar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "guérir"
+  },
+  {
+    "verb": "contraer",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "contracter"
+  },
+  {
+    "verb": "colaborar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "collaborer"
+  },
+  {
+    "verb": "aplazar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "reporter"
+  },
+  {
+    "verb": "forcejear",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "lutte"
+  },
+  {
+    "verb": "heredar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "hériter"
+  },
+  {
+    "verb": "trazar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "dessiner"
+  },
+  {
+    "verb": "tantear",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "sonde"
+  },
+  {
+    "verb": "culminar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "culminer"
+  },
+  {
+    "verb": "repasar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "revoir"
+  },
+  {
+    "verb": "resignar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "démissionner"
+  },
+  {
+    "verb": "desconcertar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "déconcerter"
+  },
+  {
+    "verb": "encerrarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "Localisez-vous"
+  },
+  {
+    "verb": "prosperar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "prospérer"
+  },
+  {
+    "verb": "aturdir",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "étourdir"
+  },
+  {
+    "verb": "excitar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "exciter"
+  },
+  {
+    "verb": "levantarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "se lever"
+  },
+  {
+    "verb": "desarmar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "désarmer"
+  },
+  {
+    "verb": "adoptar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "adopter"
+  },
+  {
+    "verb": "incorporarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "intégrer"
+  },
+  {
+    "verb": "sollozar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "sanglot"
+  },
+  {
+    "verb": "conquistar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "conquérir"
+  },
+  {
+    "verb": "imprimir",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "imprimer"
+  },
+  {
+    "verb": "asesinar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "meurtre"
+  },
+  {
+    "verb": "apoderar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "habiliter"
+  },
+  {
+    "verb": "otorgar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "accorder"
+  },
+  {
+    "verb": "batir",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "secouer"
+  },
+  {
+    "verb": "repicar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "anneau"
+  },
+  {
+    "verb": "despuntar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "émoussé"
+  },
+  {
+    "verb": "disputar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "différend"
+  },
+  {
+    "verb": "internarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "aller"
+  },
+  {
+    "verb": "humanizar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "humaniser"
+  },
+  {
+    "verb": "revolcar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "Revolcar"
+  },
+  {
+    "verb": "depositar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "déposer"
+  },
+  {
+    "verb": "degenerar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "dégénérer"
+  },
+  {
+    "verb": "llamarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "appelé"
+  },
+  {
+    "verb": "grabar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "graver"
+  },
+  {
+    "verb": "consumir",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "consommer"
+  },
+  {
+    "verb": "vincular",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "lien"
+  },
+  {
+    "verb": "ilustrar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "pour illustrer"
+  },
+  {
+    "verb": "preguntarse",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "merveille"
+  },
+  {
+    "verb": "desplazar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "déplacer"
+  },
+  {
+    "verb": "relacionar",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "se rapporter"
+  },
+  {
+    "verb": "presumir",
+    "perc": "0,0001743723834",
+    "count": "2,636733686",
+    "translation": "frimer"
+  }
+]
